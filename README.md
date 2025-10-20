@@ -11,6 +11,15 @@ The **Recursive Semantic Refinement Network (RSR-Net)** is an innovative approac
 !wget -c https://huggingface.co/datasets/ccdv/cnn_dailymail/resolve/main/dailymail_stories.tgz
 ```
 
+
+| State | Role | Dimension (Adjusted) |
+| :--- | :--- | :--- |
+| **Input ($\mathbf{x}$)** | **Document Context** (Fixed for all steps) | 768 BART d_model |
+| **State ($\mathbf{y}$)** | **Current Summary Embedding** (Refined output) | 768 BART d_model |
+| **Latent ($\mathbf{z}$)** | **Internal Memory** (Accumulates context) | 64 latent-dim |
+| **Combined Input** | torch.cat([x,y,z]) | 768 + 768 + 64 |
+
+
 # Training
 
 ```bash
