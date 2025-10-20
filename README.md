@@ -23,12 +23,11 @@ RSR-Net treats the summarization task as a **regression problem in a high-dimens
 
 The `RecursionModel` is a simple feed-forward network at its core, designed for recurrent application:
 
-| State | Role | Dimension (Adjusted) |
-| :--- | :--- | :--- |
-| **Input ($\mathbf{x}$)** | **Document Context** (Fixed for all steps) | 768 (BART $\text{d\_model}$) |
-| **State ($\mathbf{y}$)** | **Current Summary Embedding** (Refined output) | 768 (BART $\text{d\_model}$) |
-| **Latent ($\mathbf{z}$)** | **Internal Memory** (Accumulates context) | 64 ($\text{latent\_dim}$) |
-| **Combined Input** | $\text{torch.cat}([\mathbf{x}, \mathbf{y}, \mathbf{z}])$ | $768 + 768 + 64$ |
+State,Role,Dimension (Adjusted)
+Input (x),Document Context (Fixed for all steps),768 (BART d_model)
+State (y),Current Summary Embedding (Refined output),768 (BART d_model)
+Latent (z),Internal Memory (Accumulates context),64 (latent_dim)
+Combined Input,"torch.cat([x,y,z])",768+768+64
 
 The network's output consists of a refined summary state ($\mathbf{y}_{\text{out}}$), an auxiliary output ($\mathbf{y}_{\text{aux}}$), and a new latent state ($\mathbf{z}_{\text{new}}$).
 
