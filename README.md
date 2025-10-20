@@ -23,11 +23,12 @@ RSR-Net treats the summarization task as a **regression problem in a high-dimens
 
 The `RecursionModel` is a simple feed-forward network at its core, designed for recurrent application:
 
-State,Role,Dimension (Adjusted)
-Input (x),Document Context (Fixed for all steps),768 (BART d_model)
-State (y),Current Summary Embedding (Refined output),768 (BART d_model)
-Latent (z),Internal Memory (Accumulates context),64 (latent_dim)
-Combined Input,"torch.cat([x,y,z])",768+768+64
+| State | Role | Dimension (Adjusted) |
+| :--- | :--- | :--- |
+| **Input ($\mathbf{x}$)** | **Document Context** (Fixed for all steps) | 768 (BART d_model) |
+| **State ($\mathbf{y}$)** | **Current Summary Embedding** (Refined output) | 768 (BART d_model) |
+| **Latent ($\mathbf{z}$)** | **Internal Memory** (Accumulates context) | 64 latent_dim |
+| **Combined Input** | $\text{torch.cat}([\mathbf{x}, \mathbf{y}, \mathbf{z}])$ | 768 + 768 + 64 |
 
 The network's output consists of a refined summary state ($\mathbf{y}_{\text{out}}$), an auxiliary output ($\mathbf{y}_{\text{aux}}$), and a new latent state ($\mathbf{z}_{\text{new}}$).
 
@@ -38,7 +39,10 @@ The training process uses two nested recursive functions that implement a form o
 ### 1. `latent_recursion(x, y, z, net, n=4)`
 
 This is the **inner loop** that runs the core network $n$ times. It quickly pushes the state towards a stable point for the current input:
-$$\mathbf{y}_{t+1}, \mathbf{z}_{t+1} = \text{net}(\mathbf{x}, \mathbf{y}_t, \mathbf{z}_t)$$
+
+<img width="305" height="60" alt="Screenshot 2025-10-20 222557" src="https://github.com/user-attachments/assets/ed2a90cb-be4e-4798-a7a4-a89f9898796d" />
+
+
 The output $\mathbf{y}$ and $\mathbf{z}$ from the final step are then passed to the outer loop.
 
 ### 2. `deep_recursion(x, y, z, net, n=4, T=3)`
