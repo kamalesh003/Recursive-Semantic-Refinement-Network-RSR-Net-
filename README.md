@@ -11,7 +11,7 @@ The **Recursive Semantic Refinement Network (RSR-Net)** is an innovative approac
 !wget -c https://huggingface.co/datasets/ccdv/cnn_dailymail/resolve/main/dailymail_stories.tgz
 ```
 
-
+# Model Architecture
 | State | Role | Dimension (Adjusted) |
 | :--- | :--- | :--- |
 | **Input ($\mathbf{x}$)** | **Document Context** (Fixed for all steps) | 768 BART d_model |
