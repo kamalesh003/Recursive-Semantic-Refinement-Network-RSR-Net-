@@ -15,7 +15,7 @@ RSR-Net treats the summarization task as a **regression problem in a high-dimens
 1.  **Input Preparation:** The source article ($\mathbf{x}$) and the target summary ($\mathbf{y}_{\text{true}}$) are converted into fixed-size **BART-base encoder embeddings** (768 dimensions).
 2.  **Recursion:** The core model iteratively consumes the document context ($\mathbf{x}$) and refines the current summary state ($\mathbf{y}$) and an internal latent state ($\mathbf{z}$).
 3.  **Refinement:** After multiple recursive steps, the final state ($\mathbf{y}_{\text{hat}}$) represents the network's best prediction of the target summary embedding.
-4.  **Loss:** Training minimizes the distance (using **Mean Squared Error**) between the predicted summary embedding ($\mathbf{y}_{\text{hat}}$) and the ground-truth summary embedding ($\mathbf{y}_{\text{true\_emb}}$).
+4.  **Loss:** Training minimizes the distance (using **Mean Squared Error**) between the predicted summary embedding (**y_hat**) and the ground-truth summary embedding (**y_true_emb.**).
 
 ---
 
