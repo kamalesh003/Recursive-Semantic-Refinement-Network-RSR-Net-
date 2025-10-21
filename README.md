@@ -24,14 +24,7 @@ Refer **Recursive_Semantic_Refinement_Network_(RSR_Net).ipynb** for more detaile
 
 # Training
 
-```bash
-Starting training for 2 epochs...
-Epoch [1/2] finished, Average Loss: 0.0577
-Epoch [2/2] finished, Average Loss: 0.0296
-Training finished.
-```
-
-<img width="1489" height="1190" alt="image" src="https://github.com/user-attachments/assets/c8db43da-d86a-4e3b-81f1-e4f83d4ee2ba" />
+<img width="1490" height="990" alt="image" src="https://github.com/user-attachments/assets/3322cf89-ce4c-4f04-a033-640664cae3aa" />
 
 
 # Inference on first batch:
