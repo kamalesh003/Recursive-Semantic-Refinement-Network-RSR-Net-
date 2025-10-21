@@ -31,6 +31,9 @@ Epoch [2/2] finished, Average Loss: 0.0296
 Training finished.
 ```
 
+<img width="1489" height="1190" alt="image" src="https://github.com/user-attachments/assets/c8db43da-d86a-4e3b-81f1-e4f83d4ee2ba" />
+
+
 # Inference on first batch:
 ```
 Preconditioning step 1/2:
