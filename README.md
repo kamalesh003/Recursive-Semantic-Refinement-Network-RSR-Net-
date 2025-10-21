@@ -26,9 +26,11 @@ Refer **Recursive_Semantic_Refinement_Network_(RSR_Net).ipynb** for more detaile
 # Training
 
 
-<img width="1890" height="675" alt="image" src="https://github.com/user-attachments/assets/cf4050af-3b42-47bd-bfda-7699364c7e09" />
+<img width="963" height="556" alt="Screenshot 2025-10-21 183728" src="https://github.com/user-attachments/assets/605842b8-07f9-40f1-a19c-d8c003730f83" />
 
+# Mean State and Confidence Value per Epoch
 
+<img width="947" height="533" alt="Screenshot 2025-10-21 183835" src="https://github.com/user-attachments/assets/5fb4bc32-4739-45e2-aded-d1714f59e615" />
 
 
 # Inference on first batch:
