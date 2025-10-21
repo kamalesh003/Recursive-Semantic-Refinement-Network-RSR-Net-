@@ -2,7 +2,8 @@
 #  Recursive Semantic Refinement Network (RSR-Net)
 
 ## Project Goal
-The **Recursive Semantic Refinement Network (RSR-Net)** is an innovative approach to abstractive summarization. Instead of generating text word-by-word, RSR-Net is designed to iteratively refine a fixed-size semantic embedding of a summary until it converges to the desired output state, which is semantically close to the ground-truth summary. This technique leverages principles from Deep Equilibrium Models (DEQ) and Recurrent Neural Networks (RNNs).
+The **Recursive Semantic Refinement Network (RSR-Net)** is an innovative approach to abstractive summarization. Instead of generating text word-by-word, RSR-Net is designed to iteratively refine a fixed-size semantic embedding of a summary until it converges to the desired output state, which is semantically close to the ground-truth summary (Iterative regression problem in a semantic space). This technique leverages principles from Deep Equilibrium Models (DEQ) and Recurrent Neural Networks (RNNs).
+
 
 Refer **Recursive_Semantic_Refinement_Network_(RSR_Net).ipynb** for more detailed mathematics and implementation
 
