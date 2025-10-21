@@ -1,0 +1,4342 @@
+Starting training for 20 epochs...
+Preconditioning step 1/2:
+  Current y (detached): -0.010231632739305496
+  Current z (detached): 0.14476606249809265
+Preconditioning step 2/2:
+  Current y (detached): -0.009992295876145363
+  Current z (detached): 0.15188957750797272
+Final step 3/3:
+  Final y_hat: -0.009397396817803383
+  Final q_hat: 0.7716807126998901
+Preconditioning step 1/2:
+  Current y (detached): -0.008789755403995514
+  Current z (detached): 0.14385852217674255
+Preconditioning step 2/2:
+  Current y (detached): -0.01055789552628994
+  Current z (detached): 0.13248610496520996
+Final step 3/3:
+  Final y_hat: -0.008954918943345547
+  Final q_hat: 0.8068772554397583
+Preconditioning step 1/2:
+  Current y (detached): -0.00841260701417923
+  Current z (detached): 0.13443417847156525
+Preconditioning step 2/2:
+  Current y (detached): -0.0073801446706056595
+  Current z (detached): 0.1361982822418213
+Final step 3/3:
+  Final y_hat: -0.008999553509056568
+  Final q_hat: 0.7881201505661011
+Preconditioning step 1/2:
+  Current y (detached): -0.008222294971346855
+  Current z (detached): 0.1398954838514328
+Preconditioning step 2/2:
+  Current y (detached): -0.009035264141857624
+  Current z (detached): 0.13869114220142365
+Final step 3/3:
+  Final y_hat: -0.007026949897408485
+  Final q_hat: 0.7695756554603577
+Preconditioning step 1/2:
+  Current y (detached): -0.006635221652686596
+  Current z (detached): 0.14470554888248444
+Preconditioning step 2/2:
+  Current y (detached): -0.007000969722867012
+  Current z (detached): 0.13346415758132935
+Final step 3/3:
+  Final y_hat: -0.007857974618673325
+  Final q_hat: 0.7672797441482544
+Preconditioning step 1/2:
+  Current y (detached): -0.007639504037797451
+  Current z (detached): 0.14144402742385864
+Preconditioning step 2/2:
+  Current y (detached): -0.006808096542954445
+  Current z (detached): 0.13845212757587433
+Final step 3/3:
+  Final y_hat: -0.0073403953574597836
+  Final q_hat: 0.7762848734855652
+Preconditioning step 1/2:
+  Current y (detached): -0.005849462002515793
+  Current z (detached): 0.13339143991470337
+Preconditioning step 2/2:
+  Current y (detached): -0.0061934455297887325
+  Current z (detached): 0.13660287857055664
+Final step 3/3:
+  Final y_hat: -0.006272478960454464
+  Final q_hat: 0.7589145302772522
+Preconditioning step 1/2:
+  Current y (detached): -0.005190936848521233
+  Current z (detached): 0.13623717427253723
+Preconditioning step 2/2:
+  Current y (detached): -0.004571093246340752
+  Current z (detached): 0.14034655690193176
+Final step 3/3:
+  Final y_hat: -0.005271284841001034
+  Final q_hat: 0.767684280872345
+Preconditioning step 1/2:
+  Current y (detached): -0.0032778396271169186
+  Current z (detached): 0.13102206587791443
+Preconditioning step 2/2:
+  Current y (detached): -0.0027898959815502167
+  Current z (detached): 0.13924792408943176
+Final step 3/3:
+  Final y_hat: -0.003016643226146698
+  Final q_hat: 0.7628627419471741
+Preconditioning step 1/2:
+  Current y (detached): -0.002123146550729871
+  Current z (detached): 0.13357917964458466
+Preconditioning step 2/2:
+  Current y (detached): -0.0030839964747428894
+  Current z (detached): 0.1300767958164215
+Final step 3/3:
+  Final y_hat: -0.003033129032701254
+  Final q_hat: 0.7573387026786804
+Preconditioning step 1/2:
+  Current y (detached): -0.0026285722851753235
+  Current z (detached): 0.13795442879199982
+Preconditioning step 2/2:
+  Current y (detached): -0.0024348092265427113
+  Current z (detached): 0.13496574759483337
+Final step 3/3:
+  Final y_hat: -0.0018002369906753302
+  Final q_hat: 0.7645795345306396
+Preconditioning step 1/2:
+  Current y (detached): -0.0013246288290247321
+  Current z (detached): 0.13377788662910461
+Preconditioning step 2/2:
+  Current y (detached): -0.0005048405728302896
+  Current z (detached): 0.13703587651252747
+Final step 3/3:
+  Final y_hat: -0.0014139413833618164
+  Final q_hat: 0.7676876187324524
+Preconditioning step 1/2:
+  Current y (detached): 4.3341657146811485e-05
+  Current z (detached): 0.13276511430740356
+Preconditioning step 2/2:
+  Current y (detached): 0.001075520645827055
+  Current z (detached): 0.13516683876514435
+Final step 3/3:
+  Final y_hat: -0.0010176185751333833
+  Final q_hat: 0.7613428831100464
+Preconditioning step 1/2:
+  Current y (detached): -0.0005474475910887122
+  Current z (detached): 0.1328423023223877
+Preconditioning step 2/2:
+  Current y (detached): 0.001472456380724907
+  Current z (detached): 0.13619568943977356
+Final step 3/3:
+  Final y_hat: 0.0012237875489518046
+  Final q_hat: 0.7621047496795654
+Preconditioning step 1/2:
+  Current y (detached): 0.0024834403302520514
+  Current z (detached): 0.13669823110103607
+Preconditioning step 2/2:
+  Current y (detached): 0.002196037909016013
+  Current z (detached): 0.1394922137260437
+Final step 3/3:
+  Final y_hat: 0.0019922645296901464
+  Final q_hat: 0.7474499940872192
+Preconditioning step 1/2:
+  Current y (detached): 0.00403530802577734
+  Current z (detached): 0.14940249919891357
+Preconditioning step 2/2:
+  Current y (detached): 0.004254383035004139
+  Current z (detached): 0.1286412477493286
+Final step 3/3:
+  Final y_hat: 0.003294670954346657
+  Final q_hat: 0.7529295086860657
+Preconditioning step 1/2:
+  Current y (detached): 0.0035575299989432096
+  Current z (detached): 0.1268618106842041
+Preconditioning step 2/2:
+  Current y (detached): 0.004025198053568602
+  Current z (detached): 0.13465024530887604
+Final step 3/3:
+  Final y_hat: 0.004954002797603607
+  Final q_hat: 0.750423789024353
+Preconditioning step 1/2:
+  Current y (detached): 0.0052858456037938595
+  Current z (detached): 0.13246887922286987
+Preconditioning step 2/2:
+  Current y (detached): 0.005912264343351126
+  Current z (detached): 0.13806164264678955
+Final step 3/3:
+  Final y_hat: 0.005265388637781143
+  Final q_hat: 0.7589906454086304
+Preconditioning step 1/2:
+  Current y (detached): 0.004996905103325844
+  Current z (detached): 0.13043975830078125
+Preconditioning step 2/2:
+  Current y (detached): 0.006689838133752346
+  Current z (detached): 0.13482199609279633
+Final step 3/3:
+  Final y_hat: 0.006600923370569944
+  Final q_hat: 0.7525918483734131
+Preconditioning step 1/2:
+  Current y (detached): 0.007117461413145065
+  Current z (detached): 0.1398392915725708
+Preconditioning step 2/2:
+  Current y (detached): 0.005943631287664175
+  Current z (detached): 0.13417750597000122
+Final step 3/3:
+  Final y_hat: 0.007680601440370083
+  Final q_hat: 0.7457101345062256
+Preconditioning step 1/2:
+  Current y (detached): 0.008456263691186905
+  Current z (detached): 0.13842123746871948
+Preconditioning step 2/2:
+  Current y (detached): 0.007485024631023407
+  Current z (detached): 0.13531941175460815
+Final step 3/3:
+  Final y_hat: 0.008529326878488064
+  Final q_hat: 0.7405166625976562
+Preconditioning step 1/2:
+  Current y (detached): 0.009621234610676765
+  Current z (detached): 0.12876272201538086
+Preconditioning step 2/2:
+  Current y (detached): 0.00806005485355854
+  Current z (detached): 0.13850238919258118
+Final step 3/3:
+  Final y_hat: 0.008400335907936096
+  Final q_hat: 0.7289075255393982
+Preconditioning step 1/2:
+  Current y (detached): 0.009409021586179733
+  Current z (detached): 0.13452613353729248
+Preconditioning step 2/2:
+  Current y (detached): 0.009184099733829498
+  Current z (detached): 0.13459599018096924
+Final step 3/3:
+  Final y_hat: 0.009542133659124374
+  Final q_hat: 0.7257279753684998
+Preconditioning step 1/2:
+  Current y (detached): 0.00869182962924242
+  Current z (detached): 0.13141371309757233
+Preconditioning step 2/2:
+  Current y (detached): 0.010510915890336037
+  Current z (detached): 0.1315229833126068
+Final step 3/3:
+  Final y_hat: 0.008756157010793686
+  Final q_hat: 0.7402207851409912
+Epoch [1/20] finished, Average Loss: 0.1632
+Preconditioning step 1/2:
+  Current y (detached): 0.010019945912063122
+  Current z (detached): 0.12979960441589355
+Preconditioning step 2/2:
+  Current y (detached): 0.009997542947530746
+  Current z (detached): 0.1305895298719406
+Final step 3/3:
+  Final y_hat: 0.011359034106135368
+  Final q_hat: 0.7445536851882935
+Preconditioning step 1/2:
+  Current y (detached): 0.011025953106582165
+  Current z (detached): 0.14106319844722748
+Preconditioning step 2/2:
+  Current y (detached): 0.010597932152450085
+  Current z (detached): 0.1348022222518921
+Final step 3/3:
+  Final y_hat: 0.011518526822328568
+  Final q_hat: 0.7374710440635681
+Preconditioning step 1/2:
+  Current y (detached): 0.013027667999267578
+  Current z (detached): 0.14148855209350586
+Preconditioning step 2/2:
+  Current y (detached): 0.011066555045545101
+  Current z (detached): 0.13647612929344177
+Final step 3/3:
+  Final y_hat: 0.012947386130690575
+  Final q_hat: 0.7548307776451111
+Preconditioning step 1/2:
+  Current y (detached): 0.01388763077557087
+  Current z (detached): 0.13483846187591553
+Preconditioning step 2/2:
+  Current y (detached): 0.012760613113641739
+  Current z (detached): 0.13629162311553955
+Final step 3/3:
+  Final y_hat: 0.012208579108119011
+  Final q_hat: 0.7469867467880249
+Preconditioning step 1/2:
+  Current y (detached): 0.01235286146402359
+  Current z (detached): 0.13755954802036285
+Preconditioning step 2/2:
+  Current y (detached): 0.012587751261889935
+  Current z (detached): 0.13845807313919067
+Final step 3/3:
+  Final y_hat: 0.012850144878029823
+  Final q_hat: 0.7680344581604004
+Preconditioning step 1/2:
+  Current y (detached): 0.013173576444387436
+  Current z (detached): 0.1417337954044342
+Preconditioning step 2/2:
+  Current y (detached): 0.0138466227799654
+  Current z (detached): 0.1414702832698822
+Final step 3/3:
+  Final y_hat: 0.014444438740611076
+  Final q_hat: 0.7784371376037598
+Preconditioning step 1/2:
+  Current y (detached): 0.013193987309932709
+  Current z (detached): 0.14408373832702637
+Preconditioning step 2/2:
+  Current y (detached): 0.01366698369383812
+  Current z (detached): 0.13798801600933075
+Final step 3/3:
+  Final y_hat: 0.014524887315928936
+  Final q_hat: 0.7782444953918457
+Preconditioning step 1/2:
+  Current y (detached): 0.014598317444324493
+  Current z (detached): 0.14180956780910492
+Preconditioning step 2/2:
+  Current y (detached): 0.014189506880939007
+  Current z (detached): 0.14316552877426147
+Final step 3/3:
+  Final y_hat: 0.01612151600420475
+  Final q_hat: 0.7854387760162354
+Preconditioning step 1/2:
+  Current y (detached): 0.01425761729478836
+  Current z (detached): 0.13241153955459595
+Preconditioning step 2/2:
+  Current y (detached): 0.016183944419026375
+  Current z (detached): 0.13215826451778412
+Final step 3/3:
+  Final y_hat: 0.015457401052117348
+  Final q_hat: 0.7770601511001587
+Preconditioning step 1/2:
+  Current y (detached): 0.015368319116532803
+  Current z (detached): 0.14796024560928345
+Preconditioning step 2/2:
+  Current y (detached): 0.015084989368915558
+  Current z (detached): 0.13253073394298553
+Final step 3/3:
+  Final y_hat: 0.016144679859280586
+  Final q_hat: 0.7889129519462585
+Preconditioning step 1/2:
+  Current y (detached): 0.016012711450457573
+  Current z (detached): 0.13812853395938873
+Preconditioning step 2/2:
+  Current y (detached): 0.014869208447635174
+  Current z (detached): 0.1413380354642868
+Final step 3/3:
+  Final y_hat: 0.01438775472342968
+  Final q_hat: 0.7890976667404175
+Preconditioning step 1/2:
+  Current y (detached): 0.014466873370110989
+  Current z (detached): 0.1345692276954651
+Preconditioning step 2/2:
+  Current y (detached): 0.01439883466809988
+  Current z (detached): 0.14766710996627808
+Final step 3/3:
+  Final y_hat: 0.015352003276348114
+  Final q_hat: 0.813225269317627
+Preconditioning step 1/2:
+  Current y (detached): 0.015338310971856117
+  Current z (detached): 0.1459120362997055
+Preconditioning step 2/2:
+  Current y (detached): 0.013620438985526562
+  Current z (detached): 0.13182580471038818
+Final step 3/3:
+  Final y_hat: 0.01522653829306364
+  Final q_hat: 0.8142066597938538
+Preconditioning step 1/2:
+  Current y (detached): 0.015642721205949783
+  Current z (detached): 0.13583317399024963
+Preconditioning step 2/2:
+  Current y (detached): 0.014240769669413567
+  Current z (detached): 0.14102618396282196
+Final step 3/3:
+  Final y_hat: 0.014819838106632233
+  Final q_hat: 0.8108929395675659
+Preconditioning step 1/2:
+  Current y (detached): 0.015630245208740234
+  Current z (detached): 0.14828647673130035
+Preconditioning step 2/2:
+  Current y (detached): 0.014405228197574615
+  Current z (detached): 0.14223450422286987
+Final step 3/3:
+  Final y_hat: 0.015528593212366104
+  Final q_hat: 0.8305415511131287
+Preconditioning step 1/2:
+  Current y (detached): 0.014602979645133018
+  Current z (detached): 0.1356227993965149
+Preconditioning step 2/2:
+  Current y (detached): 0.014861988835036755
+  Current z (detached): 0.13388961553573608
+Final step 3/3:
+  Final y_hat: 0.015556692145764828
+  Final q_hat: 0.8346825838088989
+Preconditioning step 1/2:
+  Current y (detached): 0.015152364037930965
+  Current z (detached): 0.1469140648841858
+Preconditioning step 2/2:
+  Current y (detached): 0.01522613875567913
+  Current z (detached): 0.14078277349472046
+Final step 3/3:
+  Final y_hat: 0.01482596155256033
+  Final q_hat: 0.838317334651947
+Preconditioning step 1/2:
+  Current y (detached): 0.014739595353603363
+  Current z (detached): 0.14720873534679413
+Preconditioning step 2/2:
+  Current y (detached): 0.014367638155817986
+  Current z (detached): 0.14845217764377594
+Final step 3/3:
+  Final y_hat: 0.014191380701959133
+  Final q_hat: 0.8613244295120239
+Preconditioning step 1/2:
+  Current y (detached): 0.015283721499145031
+  Current z (detached): 0.14622879028320312
+Preconditioning step 2/2:
+  Current y (detached): 0.014178729616105556
+  Current z (detached): 0.15160909295082092
+Final step 3/3:
+  Final y_hat: 0.014388017356395721
+  Final q_hat: 0.8510538339614868
+Preconditioning step 1/2:
+  Current y (detached): 0.01442281436175108
+  Current z (detached): 0.13157430291175842
+Preconditioning step 2/2:
+  Current y (detached): 0.013044346123933792
+  Current z (detached): 0.12834405899047852
+Final step 3/3:
+  Final y_hat: 0.012695526704192162
+  Final q_hat: 0.8309752345085144
+Preconditioning step 1/2:
+  Current y (detached): 0.013821341097354889
+  Current z (detached): 0.1325024664402008
+Preconditioning step 2/2:
+  Current y (detached): 0.01353413425385952
+  Current z (detached): 0.1346200853586197
+Final step 3/3:
+  Final y_hat: 0.013042569160461426
+  Final q_hat: 0.828057050704956
+Preconditioning step 1/2:
+  Current y (detached): 0.01418997161090374
+  Current z (detached): 0.14737217128276825
+Preconditioning step 2/2:
+  Current y (detached): 0.012994751334190369
+  Current z (detached): 0.13323155045509338
+Final step 3/3:
+  Final y_hat: 0.013684378936886787
+  Final q_hat: 0.8376983404159546
+Preconditioning step 1/2:
+  Current y (detached): 0.014461394399404526
+  Current z (detached): 0.13922402262687683
+Preconditioning step 2/2:
+  Current y (detached): 0.014178561978042126
+  Current z (detached): 0.13845622539520264
+Final step 3/3:
+  Final y_hat: 0.01415306143462658
+  Final q_hat: 0.8639121055603027
+Preconditioning step 1/2:
+  Current y (detached): 0.01371309906244278
+  Current z (detached): 0.13920125365257263
+Preconditioning step 2/2:
+  Current y (detached): 0.014042477123439312
+  Current z (detached): 0.1413438320159912
+Final step 3/3:
+  Final y_hat: 0.013875114731490612
+  Final q_hat: 0.872793436050415
+Epoch [2/20] finished, Average Loss: 0.0858
+Preconditioning step 1/2:
+  Current y (detached): 0.013012375682592392
+  Current z (detached): 0.14377093315124512
+Preconditioning step 2/2:
+  Current y (detached): 0.013475500047206879
+  Current z (detached): 0.1413654088973999
+Final step 3/3:
+  Final y_hat: 0.01349455863237381
+  Final q_hat: 0.8688465356826782
+Preconditioning step 1/2:
+  Current y (detached): 0.013418051414191723
+  Current z (detached): 0.1442677080631256
+Preconditioning step 2/2:
+  Current y (detached): 0.013774569146335125
+  Current z (detached): 0.14628861844539642
+Final step 3/3:
+  Final y_hat: 0.01311015710234642
+  Final q_hat: 0.871895432472229
+Preconditioning step 1/2:
+  Current y (detached): 0.013207047246396542
+  Current z (detached): 0.14748048782348633
+Preconditioning step 2/2:
+  Current y (detached): 0.013216204941272736
+  Current z (detached): 0.14965257048606873
+Final step 3/3:
+  Final y_hat: 0.013226935639977455
+  Final q_hat: 0.8767663240432739
+Preconditioning step 1/2:
+  Current y (detached): 0.011392546817660332
+  Current z (detached): 0.14657410979270935
+Preconditioning step 2/2:
+  Current y (detached): 0.012793747708201408
+  Current z (detached): 0.14649061858654022
+Final step 3/3:
+  Final y_hat: 0.013181738555431366
+  Final q_hat: 0.8870567083358765
+Preconditioning step 1/2:
+  Current y (detached): 0.012833481654524803
+  Current z (detached): 0.1492866724729538
+Preconditioning step 2/2:
+  Current y (detached): 0.013384893536567688
+  Current z (detached): 0.1510685533285141
+Final step 3/3:
+  Final y_hat: 0.012857417576014996
+  Final q_hat: 0.8914638757705688
+Preconditioning step 1/2:
+  Current y (detached): 0.012857078574597836
+  Current z (detached): 0.152239128947258
+Preconditioning step 2/2:
+  Current y (detached): 0.012849505059421062
+  Current z (detached): 0.15221546590328217
+Final step 3/3:
+  Final y_hat: 0.0127327311784029
+  Final q_hat: 0.8976328372955322
+Preconditioning step 1/2:
+  Current y (detached): 0.01145899947732687
+  Current z (detached): 0.16225607693195343
+Preconditioning step 2/2:
+  Current y (detached): 0.010376597754657269
+  Current z (detached): 0.15218640863895416
+Final step 3/3:
+  Final y_hat: 0.012013128027319908
+  Final q_hat: 0.9017316102981567
+Preconditioning step 1/2:
+  Current y (detached): 0.011578164994716644
+  Current z (detached): 0.1535463184118271
+Preconditioning step 2/2:
+  Current y (detached): 0.011722918599843979
+  Current z (detached): 0.15416857600212097
+Final step 3/3:
+  Final y_hat: 0.012064694426953793
+  Final q_hat: 0.9041531682014465
+Preconditioning step 1/2:
+  Current y (detached): 0.011770295910537243
+  Current z (detached): 0.15538433194160461
+Preconditioning step 2/2:
+  Current y (detached): 0.01155621837824583
+  Current z (detached): 0.15342268347740173
+Final step 3/3:
+  Final y_hat: 0.011755285784602165
+  Final q_hat: 0.906624436378479
+Preconditioning step 1/2:
+  Current y (detached): 0.010725008323788643
+  Current z (detached): 0.15831072628498077
+Preconditioning step 2/2:
+  Current y (detached): 0.011091972701251507
+  Current z (detached): 0.1532953530550003
+Final step 3/3:
+  Final y_hat: 0.01110173761844635
+  Final q_hat: 0.9053294062614441
+Preconditioning step 1/2:
+  Current y (detached): 0.011403287760913372
+  Current z (detached): 0.15746942162513733
+Preconditioning step 2/2:
+  Current y (detached): 0.011335859075188637
+  Current z (detached): 0.15942004323005676
+Final step 3/3:
+  Final y_hat: 0.011201469227671623
+  Final q_hat: 0.9109100103378296
+Preconditioning step 1/2:
+  Current y (detached): 0.011004477739334106
+  Current z (detached): 0.16084791719913483
+Preconditioning step 2/2:
+  Current y (detached): 0.010881456546485424
+  Current z (detached): 0.15969476103782654
+Final step 3/3:
+  Final y_hat: 0.011021989397704601
+  Final q_hat: 0.9143044948577881
+Preconditioning step 1/2:
+  Current y (detached): 0.010972348973155022
+  Current z (detached): 0.15865126252174377
+Preconditioning step 2/2:
+  Current y (detached): 0.011134166270494461
+  Current z (detached): 0.1567631959915161
+Final step 3/3:
+  Final y_hat: 0.010768081061542034
+  Final q_hat: 0.9142230153083801
+Preconditioning step 1/2:
+  Current y (detached): 0.010668857954442501
+  Current z (detached): 0.1637849360704422
+Preconditioning step 2/2:
+  Current y (detached): 0.01044386811554432
+  Current z (detached): 0.1639454960823059
+Final step 3/3:
+  Final y_hat: 0.010456139221787453
+  Final q_hat: 0.9162629842758179
+Preconditioning step 1/2:
+  Current y (detached): 0.010331936180591583
+  Current z (detached): 0.16546854376792908
+Preconditioning step 2/2:
+  Current y (detached): 0.010293398052453995
+  Current z (detached): 0.16543206572532654
+Final step 3/3:
+  Final y_hat: 0.010292187333106995
+  Final q_hat: 0.9181774854660034
+Preconditioning step 1/2:
+  Current y (detached): 0.009565609507262707
+  Current z (detached): 0.17085659503936768
+Preconditioning step 2/2:
+  Current y (detached): 0.009844612330198288
+  Current z (detached): 0.16067734360694885
+Final step 3/3:
+  Final y_hat: 0.010147852823138237
+  Final q_hat: 0.9049239158630371
+Preconditioning step 1/2:
+  Current y (detached): 0.009694578126072884
+  Current z (detached): 0.1606345772743225
+Preconditioning step 2/2:
+  Current y (detached): 0.010451270267367363
+  Current z (detached): 0.1666969358921051
+Final step 3/3:
+  Final y_hat: 0.010473957285284996
+  Final q_hat: 0.9186811447143555
+Preconditioning step 1/2:
+  Current y (detached): 0.010406522080302238
+  Current z (detached): 0.16991093754768372
+Preconditioning step 2/2:
+  Current y (detached): 0.010310973972082138
+  Current z (detached): 0.1709735095500946
+Final step 3/3:
+  Final y_hat: 0.010290319100022316
+  Final q_hat: 0.9208774566650391
+Preconditioning step 1/2:
+  Current y (detached): 0.00949527695775032
+  Current z (detached): 0.16905361413955688
+Preconditioning step 2/2:
+  Current y (detached): 0.010221844539046288
+  Current z (detached): 0.1729813814163208
+Final step 3/3:
+  Final y_hat: 0.010021358728408813
+  Final q_hat: 0.9208499193191528
+Preconditioning step 1/2:
+  Current y (detached): 0.009712121449410915
+  Current z (detached): 0.1731550395488739
+Preconditioning step 2/2:
+  Current y (detached): 0.00981023721396923
+  Current z (detached): 0.17327667772769928
+Final step 3/3:
+  Final y_hat: 0.009774398058652878
+  Final q_hat: 0.9215397834777832
+Preconditioning step 1/2:
+  Current y (detached): 0.009666090831160545
+  Current z (detached): 0.17491286993026733
+Preconditioning step 2/2:
+  Current y (detached): 0.009724460542201996
+  Current z (detached): 0.17494064569473267
+Final step 3/3:
+  Final y_hat: 0.009674377739429474
+  Final q_hat: 0.9222735166549683
+Preconditioning step 1/2:
+  Current y (detached): 0.009980795904994011
+  Current z (detached): 0.18362963199615479
+Preconditioning step 2/2:
+  Current y (detached): 0.009359003975987434
+  Current z (detached): 0.1748930811882019
+Final step 3/3:
+  Final y_hat: 0.009723145514726639
+  Final q_hat: 0.9250162839889526
+Preconditioning step 1/2:
+  Current y (detached): 0.009438194334506989
+  Current z (detached): 0.1792244166135788
+Preconditioning step 2/2:
+  Current y (detached): 0.00950201228260994
+  Current z (detached): 0.17899762094020844
+Final step 3/3:
+  Final y_hat: 0.009486960247159004
+  Final q_hat: 0.9257274866104126
+Preconditioning step 1/2:
+  Current y (detached): 0.009432456456124783
+  Current z (detached): 0.18080320954322815
+Preconditioning step 2/2:
+  Current y (detached): 0.009441995993256569
+  Current z (detached): 0.1807277351617813
+Final step 3/3:
+  Final y_hat: 0.009463159367442131
+  Final q_hat: 0.9263569116592407
+Epoch [3/20] finished, Average Loss: 0.0288
+Preconditioning step 1/2:
+  Current y (detached): 0.009442306123673916
+  Current z (detached): 0.18407274782657623
+Preconditioning step 2/2:
+  Current y (detached): 0.009858916513621807
+  Current z (detached): 0.1817217916250229
+Final step 3/3:
+  Final y_hat: 0.009836943820118904
+  Final q_hat: 0.9266850352287292
+Preconditioning step 1/2:
+  Current y (detached): 0.009926270693540573
+  Current z (detached): 0.1847301721572876
+Preconditioning step 2/2:
+  Current y (detached): 0.00995657965540886
+  Current z (detached): 0.18471771478652954
+Final step 3/3:
+  Final y_hat: 0.00998559221625328
+  Final q_hat: 0.9275137782096863
+Preconditioning step 1/2:
+  Current y (detached): 0.010054643265902996
+  Current z (detached): 0.18615703284740448
+Preconditioning step 2/2:
+  Current y (detached): 0.010056078433990479
+  Current z (detached): 0.1861608773469925
+Final step 3/3:
+  Final y_hat: 0.010056035593152046
+  Final q_hat: 0.9280608892440796
+Preconditioning step 1/2:
+  Current y (detached): 0.009003445506095886
+  Current z (detached): 0.18481750786304474
+Preconditioning step 2/2:
+  Current y (detached): 0.00964127667248249
+  Current z (detached): 0.1826298087835312
+Final step 3/3:
+  Final y_hat: 0.009857225231826305
+  Final q_hat: 0.9288904666900635
+Preconditioning step 1/2:
+  Current y (detached): 0.009832197800278664
+  Current z (detached): 0.18790702521800995
+Preconditioning step 2/2:
+  Current y (detached): 0.009845367632806301
+  Current z (detached): 0.18787045776844025
+Final step 3/3:
+  Final y_hat: 0.009837454184889793
+  Final q_hat: 0.9297101497650146
+Preconditioning step 1/2:
+  Current y (detached): 0.009799515828490257
+  Current z (detached): 0.18889206647872925
+Preconditioning step 2/2:
+  Current y (detached): 0.00980592705309391
+  Current z (detached): 0.18889844417572021
+Final step 3/3:
+  Final y_hat: 0.009821802377700806
+  Final q_hat: 0.9306344985961914
+Preconditioning step 1/2:
+  Current y (detached): 0.009417074732482433
+  Current z (detached): 0.18152523040771484
+Preconditioning step 2/2:
+  Current y (detached): 0.009442384354770184
+  Current z (detached): 0.18663574755191803
+Final step 3/3:
+  Final y_hat: 0.009479634463787079
+  Final q_hat: 0.9275169372558594
+Preconditioning step 1/2:
+  Current y (detached): 0.009353292174637318
+  Current z (detached): 0.1884995698928833
+Preconditioning step 2/2:
+  Current y (detached): 0.009288822300732136
+  Current z (detached): 0.18832512199878693
+Final step 3/3:
+  Final y_hat: 0.009387971833348274
+  Final q_hat: 0.928270697593689
+Preconditioning step 1/2:
+  Current y (detached): 0.00923324003815651
+  Current z (detached): 0.1893928349018097
+Preconditioning step 2/2:
+  Current y (detached): 0.009203869849443436
+  Current z (detached): 0.19016437232494354
+Final step 3/3:
+  Final y_hat: 0.00917822401970625
+  Final q_hat: 0.9305356740951538
+Preconditioning step 1/2:
+  Current y (detached): 0.009343770332634449
+  Current z (detached): 0.19672928750514984
+Preconditioning step 2/2:
+  Current y (detached): 0.008152538910508156
+  Current z (detached): 0.18553204834461212
+Final step 3/3:
+  Final y_hat: 0.008985191583633423
+  Final q_hat: 0.9225702285766602
+Preconditioning step 1/2:
+  Current y (detached): 0.008838117122650146
+  Current z (detached): 0.19178776443004608
+Preconditioning step 2/2:
+  Current y (detached): 0.009089991450309753
+  Current z (detached): 0.19489525258541107
+Final step 3/3:
+  Final y_hat: 0.00888877734541893
+  Final q_hat: 0.9329788684844971
+Preconditioning step 1/2:
+  Current y (detached): 0.008912592194974422
+  Current z (detached): 0.19618907570838928
+Preconditioning step 2/2:
+  Current y (detached): 0.008871280588209629
+  Current z (detached): 0.19592127203941345
+Final step 3/3:
+  Final y_hat: 0.00880349799990654
+  Final q_hat: 0.9342777729034424
+Preconditioning step 1/2:
+  Current y (detached): 0.009280705824494362
+  Current z (detached): 0.21045997738838196
+Preconditioning step 2/2:
+  Current y (detached): 0.007900174707174301
+  Current z (detached): 0.20289480686187744
+Final step 3/3:
+  Final y_hat: 0.009039115160703659
+  Final q_hat: 0.9181779623031616
+Preconditioning step 1/2:
+  Current y (detached): 0.008537741377949715
+  Current z (detached): 0.19512881338596344
+Preconditioning step 2/2:
+  Current y (detached): 0.0083994809538126
+  Current z (detached): 0.19483023881912231
+Final step 3/3:
+  Final y_hat: 0.008420383557677269
+  Final q_hat: 0.9259546995162964
+Preconditioning step 1/2:
+  Current y (detached): 0.008352736011147499
+  Current z (detached): 0.19702082872390747
+Preconditioning step 2/2:
+  Current y (detached): 0.008370043709874153
+  Current z (detached): 0.19723716378211975
+Final step 3/3:
+  Final y_hat: 0.008350319229066372
+  Final q_hat: 0.9274394512176514
+Preconditioning step 1/2:
+  Current y (detached): 0.008904293179512024
+  Current z (detached): 0.20073360204696655
+Preconditioning step 2/2:
+  Current y (detached): 0.008703507483005524
+  Current z (detached): 0.20562966167926788
+Final step 3/3:
+  Final y_hat: 0.008517453446984291
+  Final q_hat: 0.9377659559249878
+Preconditioning step 1/2:
+  Current y (detached): 0.00860976055264473
+  Current z (detached): 0.2082044780254364
+Preconditioning step 2/2:
+  Current y (detached): 0.008575615473091602
+  Current z (detached): 0.20817174017429352
+Final step 3/3:
+  Final y_hat: 0.008576897904276848
+  Final q_hat: 0.9384454488754272
+Preconditioning step 1/2:
+  Current y (detached): 0.008626704104244709
+  Current z (detached): 0.210157573223114
+Preconditioning step 2/2:
+  Current y (detached): 0.008621848188340664
+  Current z (detached): 0.21014761924743652
+Final step 3/3:
+  Final y_hat: 0.008622841909527779
+  Final q_hat: 0.9389644861221313
+Preconditioning step 1/2:
+  Current y (detached): 0.008782333694398403
+  Current z (detached): 0.21906247735023499
+Preconditioning step 2/2:
+  Current y (detached): 0.008773844689130783
+  Current z (detached): 0.20947305858135223
+Final step 3/3:
+  Final y_hat: 0.009288734756410122
+  Final q_hat: 0.9405322074890137
+Preconditioning step 1/2:
+  Current y (detached): 0.009337080642580986
+  Current z (detached): 0.21363097429275513
+Preconditioning step 2/2:
+  Current y (detached): 0.009332658722996712
+  Current z (detached): 0.21362805366516113
+Final step 3/3:
+  Final y_hat: 0.009334585629403591
+  Final q_hat: 0.9410169124603271
+Preconditioning step 1/2:
+  Current y (detached): 0.009331035427749157
+  Current z (detached): 0.21520735323429108
+Preconditioning step 2/2:
+  Current y (detached): 0.009331751614809036
+  Current z (detached): 0.21521280705928802
+Final step 3/3:
+  Final y_hat: 0.009331898763775826
+  Final q_hat: 0.9412925839424133
+Preconditioning step 1/2:
+  Current y (detached): 0.008693808689713478
+  Current z (detached): 0.2130666971206665
+Preconditioning step 2/2:
+  Current y (detached): 0.009353067725896835
+  Current z (detached): 0.21583499014377594
+Final step 3/3:
+  Final y_hat: 0.009093377739191055
+  Final q_hat: 0.9417418241500854
+Preconditioning step 1/2:
+  Current y (detached): 0.009076903574168682
+  Current z (detached): 0.21820934116840363
+Preconditioning step 2/2:
+  Current y (detached): 0.009065399877727032
+  Current z (detached): 0.21819916367530823
+Final step 3/3:
+  Final y_hat: 0.009062507189810276
+  Final q_hat: 0.9419049024581909
+Preconditioning step 1/2:
+  Current y (detached): 0.009047841653227806
+  Current z (detached): 0.21946483850479126
+Preconditioning step 2/2:
+  Current y (detached): 0.00904893409460783
+  Current z (detached): 0.2194710671901703
+Final step 3/3:
+  Final y_hat: 0.009048804640769958
+  Final q_hat: 0.9419976472854614
+Epoch [4/20] finished, Average Loss: 0.0167
+Preconditioning step 1/2:
+  Current y (detached): 0.008278568275272846
+  Current z (detached): 0.23733162879943848
+Preconditioning step 2/2:
+  Current y (detached): 0.0101720429956913
+  Current z (detached): 0.23896583914756775
+Final step 3/3:
+  Final y_hat: 0.008985817432403564
+  Final q_hat: 0.9379264116287231
+Preconditioning step 1/2:
+  Current y (detached): 0.009072709828615189
+  Current z (detached): 0.22139957547187805
+Preconditioning step 2/2:
+  Current y (detached): 0.009080629795789719
+  Current z (detached): 0.22141802310943604
+Final step 3/3:
+  Final y_hat: 0.00907931663095951
+  Final q_hat: 0.9414584040641785
+Preconditioning step 1/2:
+  Current y (detached): 0.009067014791071415
+  Current z (detached): 0.2227734625339508
+Preconditioning step 2/2:
+  Current y (detached): 0.009060460142791271
+  Current z (detached): 0.22278332710266113
+Final step 3/3:
+  Final y_hat: 0.00906275026500225
+  Final q_hat: 0.9415243864059448
+Preconditioning step 1/2:
+  Current y (detached): 0.008911298587918282
+  Current z (detached): 0.21918903291225433
+Preconditioning step 2/2:
+  Current y (detached): 0.00883207656443119
+  Current z (detached): 0.2213817536830902
+Final step 3/3:
+  Final y_hat: 0.008788315579295158
+  Final q_hat: 0.9284343719482422
+Preconditioning step 1/2:
+  Current y (detached): 0.008818639442324638
+  Current z (detached): 0.22269226610660553
+Preconditioning step 2/2:
+  Current y (detached): 0.00879810843616724
+  Current z (detached): 0.22264567017555237
+Final step 3/3:
+  Final y_hat: 0.008800248615443707
+  Final q_hat: 0.9285051822662354
+Preconditioning step 1/2:
+  Current y (detached): 0.008830981329083443
+  Current z (detached): 0.22383087873458862
+Preconditioning step 2/2:
+  Current y (detached): 0.008826170116662979
+  Current z (detached): 0.22382906079292297
+Final step 3/3:
+  Final y_hat: 0.008829005062580109
+  Final q_hat: 0.92860347032547
+Preconditioning step 1/2:
+  Current y (detached): 0.008634723722934723
+  Current z (detached): 0.22143107652664185
+Preconditioning step 2/2:
+  Current y (detached): 0.008985023014247417
+  Current z (detached): 0.22532829642295837
+Final step 3/3:
+  Final y_hat: 0.009013788774609566
+  Final q_hat: 0.9280128479003906
+Preconditioning step 1/2:
+  Current y (detached): 0.009065970778465271
+  Current z (detached): 0.22633096575737
+Preconditioning step 2/2:
+  Current y (detached): 0.009071631357073784
+  Current z (detached): 0.22646695375442505
+Final step 3/3:
+  Final y_hat: 0.009059498086571693
+  Final q_hat: 0.9286378622055054
+Preconditioning step 1/2:
+  Current y (detached): 0.009146630764007568
+  Current z (detached): 0.2274951934814453
+Preconditioning step 2/2:
+  Current y (detached): 0.00913390051573515
+  Current z (detached): 0.22756588459014893
+Final step 3/3:
+  Final y_hat: 0.00913887470960617
+  Final q_hat: 0.9294008016586304
+Preconditioning step 1/2:
+  Current y (detached): 0.009033414535224438
+  Current z (detached): 0.23845888674259186
+Preconditioning step 2/2:
+  Current y (detached): 0.009294259361922741
+  Current z (detached): 0.24756664037704468
+Final step 3/3:
+  Final y_hat: 0.008928924798965454
+  Final q_hat: 0.9314005970954895
+Preconditioning step 1/2:
+  Current y (detached): 0.009323564358055592
+  Current z (detached): 0.2320849746465683
+Preconditioning step 2/2:
+  Current y (detached): 0.00931263156235218
+  Current z (detached): 0.23236572742462158
+Final step 3/3:
+  Final y_hat: 0.009320493787527084
+  Final q_hat: 0.9425256252288818
+Preconditioning step 1/2:
+  Current y (detached): 0.009410682134330273
+  Current z (detached): 0.2336721122264862
+Preconditioning step 2/2:
+  Current y (detached): 0.009410921484231949
+  Current z (detached): 0.23365959525108337
+Final step 3/3:
+  Final y_hat: 0.0094106774777174
+  Final q_hat: 0.9428764581680298
+Preconditioning step 1/2:
+  Current y (detached): 0.009484730660915375
+  Current z (detached): 0.23055563867092133
+Preconditioning step 2/2:
+  Current y (detached): 0.0095985634252429
+  Current z (detached): 0.2322900891304016
+Final step 3/3:
+  Final y_hat: 0.00956105999648571
+  Final q_hat: 0.9327971935272217
+Preconditioning step 1/2:
+  Current y (detached): 0.009613074362277985
+  Current z (detached): 0.2333763837814331
+Preconditioning step 2/2:
+  Current y (detached): 0.00962377991527319
+  Current z (detached): 0.2334081530570984
+Final step 3/3:
+  Final y_hat: 0.009626088663935661
+  Final q_hat: 0.9332654476165771
+Preconditioning step 1/2:
+  Current y (detached): 0.009643977507948875
+  Current z (detached): 0.2341465801000595
+Preconditioning step 2/2:
+  Current y (detached): 0.00964406318962574
+  Current z (detached): 0.23416107892990112
+Final step 3/3:
+  Final y_hat: 0.00964463409036398
+  Final q_hat: 0.9335758686065674
+Preconditioning step 1/2:
+  Current y (detached): 0.009252259507775307
+  Current z (detached): 0.24054843187332153
+Preconditioning step 2/2:
+  Current y (detached): 0.009547515772283077
+  Current z (detached): 0.2360745072364807
+Final step 3/3:
+  Final y_hat: 0.009868370369076729
+  Final q_hat: 0.9341262578964233
+Preconditioning step 1/2:
+  Current y (detached): 0.009806469082832336
+  Current z (detached): 0.23569557070732117
+Preconditioning step 2/2:
+  Current y (detached): 0.009888788685202599
+  Current z (detached): 0.23599761724472046
+Final step 3/3:
+  Final y_hat: 0.009895436465740204
+  Final q_hat: 0.9344046115875244
+Preconditioning step 1/2:
+  Current y (detached): 0.009824473410844803
+  Current z (detached): 0.23696622252464294
+Preconditioning step 2/2:
+  Current y (detached): 0.009815272875130177
+  Current z (detached): 0.23685453832149506
+Final step 3/3:
+  Final y_hat: 0.009813189506530762
+  Final q_hat: 0.9348129034042358
+Preconditioning step 1/2:
+  Current y (detached): 0.00875859521329403
+  Current z (detached): 0.23075760900974274
+Preconditioning step 2/2:
+  Current y (detached): 0.009327349252998829
+  Current z (detached): 0.23742032051086426
+Final step 3/3:
+  Final y_hat: 0.009364968165755272
+  Final q_hat: 0.9351230263710022
+Preconditioning step 1/2:
+  Current y (detached): 0.009285608306527138
+  Current z (detached): 0.23833173513412476
+Preconditioning step 2/2:
+  Current y (detached): 0.009282654151320457
+  Current z (detached): 0.23833175003528595
+Final step 3/3:
+  Final y_hat: 0.0092820068821311
+  Final q_hat: 0.9354104399681091
+Preconditioning step 1/2:
+  Current y (detached): 0.009211428463459015
+  Current z (detached): 0.23897519707679749
+Preconditioning step 2/2:
+  Current y (detached): 0.00921124778687954
+  Current z (detached): 0.2389807552099228
+Final step 3/3:
+  Final y_hat: 0.009211450815200806
+  Final q_hat: 0.9356194734573364
+Preconditioning step 1/2:
+  Current y (detached): 0.009494779631495476
+  Current z (detached): 0.254840612411499
+Preconditioning step 2/2:
+  Current y (detached): 0.007878568023443222
+  Current z (detached): 0.23677319288253784
+Final step 3/3:
+  Final y_hat: 0.009174670092761517
+  Final q_hat: 0.9340753555297852
+Preconditioning step 1/2:
+  Current y (detached): 0.00911519955843687
+  Current z (detached): 0.24038097262382507
+Preconditioning step 2/2:
+  Current y (detached): 0.00912901945412159
+  Current z (detached): 0.24043875932693481
+Final step 3/3:
+  Final y_hat: 0.009133602492511272
+  Final q_hat: 0.9356119632720947
+Preconditioning step 1/2:
+  Current y (detached): 0.009118594229221344
+  Current z (detached): 0.24132248759269714
+Preconditioning step 2/2:
+  Current y (detached): 0.009119173511862755
+  Current z (detached): 0.24132464826107025
+Final step 3/3:
+  Final y_hat: 0.009119299240410328
+  Final q_hat: 0.9359879493713379
+Epoch [5/20] finished, Average Loss: 0.0158
+Preconditioning step 1/2:
+  Current y (detached): 0.009787039831280708
+  Current z (detached): 0.254546195268631
+Preconditioning step 2/2:
+  Current y (detached): 0.008539188653230667
+  Current z (detached): 0.23931750655174255
+Final step 3/3:
+  Final y_hat: 0.0093331728130579
+  Final q_hat: 0.9366250038146973
+Preconditioning step 1/2:
+  Current y (detached): 0.009346282109618187
+  Current z (detached): 0.2432267814874649
+Preconditioning step 2/2:
+  Current y (detached): 0.00931031908839941
+  Current z (detached): 0.24320703744888306
+Final step 3/3:
+  Final y_hat: 0.009309036657214165
+  Final q_hat: 0.9374650716781616
+Preconditioning step 1/2:
+  Current y (detached): 0.009329196065664291
+  Current z (detached): 0.24411095678806305
+Preconditioning step 2/2:
+  Current y (detached): 0.009329958818852901
+  Current z (detached): 0.24411128461360931
+Final step 3/3:
+  Final y_hat: 0.009329850785434246
+  Final q_hat: 0.9379098415374756
+Preconditioning step 1/2:
+  Current y (detached): 0.008422859013080597
+  Current z (detached): 0.23979172110557556
+Preconditioning step 2/2:
+  Current y (detached): 0.009126727469265461
+  Current z (detached): 0.2447451651096344
+Final step 3/3:
+  Final y_hat: 0.00912271998822689
+  Final q_hat: 0.9376233816146851
+Preconditioning step 1/2:
+  Current y (detached): 0.00915118120610714
+  Current z (detached): 0.24564358592033386
+Preconditioning step 2/2:
+  Current y (detached): 0.009151352569460869
+  Current z (detached): 0.2456446886062622
+Final step 3/3:
+  Final y_hat: 0.00915148388594389
+  Final q_hat: 0.938092052936554
+Preconditioning step 1/2:
+  Current y (detached): 0.009185593575239182
+  Current z (detached): 0.24646960198879242
+Preconditioning step 2/2:
+  Current y (detached): 0.009185380302369595
+  Current z (detached): 0.246469646692276
+Final step 3/3:
+  Final y_hat: 0.009185410104691982
+  Final q_hat: 0.9385647773742676
+Preconditioning step 1/2:
+  Current y (detached): 0.00844910554587841
+  Current z (detached): 0.24121131002902985
+Preconditioning step 2/2:
+  Current y (detached): 0.00924126897007227
+  Current z (detached): 0.2470349669456482
+Final step 3/3:
+  Final y_hat: 0.00923139974474907
+  Final q_hat: 0.938775897026062
+Preconditioning step 1/2:
+  Current y (detached): 0.009264864027500153
+  Current z (detached): 0.2478598952293396
+Preconditioning step 2/2:
+  Current y (detached): 0.009264119900763035
+  Current z (detached): 0.24785536527633667
+Final step 3/3:
+  Final y_hat: 0.00926407054066658
+  Final q_hat: 0.9392285346984863
+Preconditioning step 1/2:
+  Current y (detached): 0.009292240254580975
+  Current z (detached): 0.24859414994716644
+Preconditioning step 2/2:
+  Current y (detached): 0.00929233618080616
+  Current z (detached): 0.24859288334846497
+Final step 3/3:
+  Final y_hat: 0.00929224956780672
+  Final q_hat: 0.9396674036979675
+Preconditioning step 1/2:
+  Current y (detached): 0.00948695745319128
+  Current z (detached): 0.25664228200912476
+Preconditioning step 2/2:
+  Current y (detached): 0.008870363235473633
+  Current z (detached): 0.2435380518436432
+Final step 3/3:
+  Final y_hat: 0.009392092935740948
+  Final q_hat: 0.9401799440383911
+Preconditioning step 1/2:
+  Current y (detached): 0.00941399671137333
+  Current z (detached): 0.25011134147644043
+Preconditioning step 2/2:
+  Current y (detached): 0.009412460029125214
+  Current z (detached): 0.2501065135002136
+Final step 3/3:
+  Final y_hat: 0.009413901716470718
+  Final q_hat: 0.9405110478401184
+Preconditioning step 1/2:
+  Current y (detached): 0.009412352927029133
+  Current z (detached): 0.2507055401802063
+Preconditioning step 2/2:
+  Current y (detached): 0.00941300019621849
+  Current z (detached): 0.25070470571517944
+Final step 3/3:
+  Final y_hat: 0.00941297598183155
+  Final q_hat: 0.9407680034637451
+Preconditioning step 1/2:
+  Current y (detached): 0.009812679141759872
+  Current z (detached): 0.26447248458862305
+Preconditioning step 2/2:
+  Current y (detached): 0.009460813365876675
+  Current z (detached): 0.251848042011261
+Final step 3/3:
+  Final y_hat: 0.009480261243879795
+  Final q_hat: 0.9417590498924255
+Preconditioning step 1/2:
+  Current y (detached): 0.009464491158723831
+  Current z (detached): 0.25246256589889526
+Preconditioning step 2/2:
+  Current y (detached): 0.00946739874780178
+  Current z (detached): 0.25247126817703247
+Final step 3/3:
+  Final y_hat: 0.009468118660151958
+  Final q_hat: 0.9419293999671936
+Preconditioning step 1/2:
+  Current y (detached): 0.009435897693037987
+  Current z (detached): 0.2528708577156067
+Preconditioning step 2/2:
+  Current y (detached): 0.009436315856873989
+  Current z (detached): 0.2528722882270813
+Final step 3/3:
+  Final y_hat: 0.009436307474970818
+  Final q_hat: 0.941932737827301
+Preconditioning step 1/2:
+  Current y (detached): 0.008882546797394753
+  Current z (detached): 0.2443796992301941
+Preconditioning step 2/2:
+  Current y (detached): 0.009408419951796532
+  Current z (detached): 0.25263428688049316
+Final step 3/3:
+  Final y_hat: 0.009428240358829498
+  Final q_hat: 0.9412314891815186
+Preconditioning step 1/2:
+  Current y (detached): 0.009387089870870113
+  Current z (detached): 0.25303298234939575
+Preconditioning step 2/2:
+  Current y (detached): 0.009389455430209637
+  Current z (detached): 0.2530415654182434
+Final step 3/3:
+  Final y_hat: 0.00938915554434061
+  Final q_hat: 0.9411997199058533
+Preconditioning step 1/2:
+  Current y (detached): 0.00934914406388998
+  Current z (detached): 0.2533860504627228
+Preconditioning step 2/2:
+  Current y (detached): 0.00934933964163065
+  Current z (detached): 0.25338828563690186
+Final step 3/3:
+  Final y_hat: 0.00934927724301815
+  Final q_hat: 0.9411518573760986
+Preconditioning step 1/2:
+  Current y (detached): 0.008791720494627953
+  Current z (detached): 0.2467104196548462
+Preconditioning step 2/2:
+  Current y (detached): 0.009075111709535122
+  Current z (detached): 0.2531130909919739
+Final step 3/3:
+  Final y_hat: 0.009079488925635815
+  Final q_hat: 0.9400902390480042
+Preconditioning step 1/2:
+  Current y (detached): 0.009070941247045994
+  Current z (detached): 0.2535548806190491
+Preconditioning step 2/2:
+  Current y (detached): 0.00907205045223236
+  Current z (detached): 0.25355789065361023
+Final step 3/3:
+  Final y_hat: 0.009071899577975273
+  Final q_hat: 0.9401240348815918
+Preconditioning step 1/2:
+  Current y (detached): 0.009072938933968544
+  Current z (detached): 0.25405845046043396
+Preconditioning step 2/2:
+  Current y (detached): 0.009073030203580856
+  Current z (detached): 0.25405871868133545
+Final step 3/3:
+  Final y_hat: 0.009073012508451939
+  Final q_hat: 0.9402610063552856
+Preconditioning step 1/2:
+  Current y (detached): 0.008962435647845268
+  Current z (detached): 0.25091367959976196
+Preconditioning step 2/2:
+  Current y (detached): 0.009111849591135979
+  Current z (detached): 0.25431108474731445
+Final step 3/3:
+  Final y_hat: 0.009127266705036163
+  Final q_hat: 0.9402154684066772
+Preconditioning step 1/2:
+  Current y (detached): 0.009164970368146896
+  Current z (detached): 0.2548536956310272
+Preconditioning step 2/2:
+  Current y (detached): 0.009166514500975609
+  Current z (detached): 0.2548522353172302
+Final step 3/3:
+  Final y_hat: 0.009166957810521126
+  Final q_hat: 0.9404183626174927
+Preconditioning step 1/2:
+  Current y (detached): 0.009205576032400131
+  Current z (detached): 0.25546032190322876
+Preconditioning step 2/2:
+  Current y (detached): 0.009205469861626625
+  Current z (detached): 0.2554609775543213
+Final step 3/3:
+  Final y_hat: 0.009205457754433155
+  Final q_hat: 0.9406701922416687
+Epoch [6/20] finished, Average Loss: 0.0149
+Preconditioning step 1/2:
+  Current y (detached): 0.008428175002336502
+  Current z (detached): 0.2474488765001297
+Preconditioning step 2/2:
+  Current y (detached): 0.008996420539915562
+  Current z (detached): 0.2476295828819275
+Final step 3/3:
+  Final y_hat: 0.00902549922466278
+  Final q_hat: 0.9217169284820557
+Preconditioning step 1/2:
+  Current y (detached): 0.009053187444806099
+  Current z (detached): 0.2484988421201706
+Preconditioning step 2/2:
+  Current y (detached): 0.009046636521816254
+  Current z (detached): 0.24847018718719482
+Final step 3/3:
+  Final y_hat: 0.009048199281096458
+  Final q_hat: 0.9221596717834473
+Preconditioning step 1/2:
+  Current y (detached): 0.009088972583413124
+  Current z (detached): 0.2489856332540512
+Preconditioning step 2/2:
+  Current y (detached): 0.009088393300771713
+  Current z (detached): 0.24898287653923035
+Final step 3/3:
+  Final y_hat: 0.009088430553674698
+  Final q_hat: 0.9226897954940796
+Preconditioning step 1/2:
+  Current y (detached): 0.008345656096935272
+  Current z (detached): 0.24679651856422424
+Preconditioning step 2/2:
+  Current y (detached): 0.009118666872382164
+  Current z (detached): 0.25635766983032227
+Final step 3/3:
+  Final y_hat: 0.009166162461042404
+  Final q_hat: 0.9430785775184631
+Preconditioning step 1/2:
+  Current y (detached): 0.009199008345603943
+  Current z (detached): 0.25992026925086975
+Preconditioning step 2/2:
+  Current y (detached): 0.009199117310345173
+  Current z (detached): 0.2599320411682129
+Final step 3/3:
+  Final y_hat: 0.009198923595249653
+  Final q_hat: 0.942955732345581
+Preconditioning step 1/2:
+  Current y (detached): 0.0092186089605093
+  Current z (detached): 0.2600606381893158
+Preconditioning step 2/2:
+  Current y (detached): 0.009218372404575348
+  Current z (detached): 0.2600584626197815
+Final step 3/3:
+  Final y_hat: 0.009218353778123856
+  Final q_hat: 0.9427310228347778
+Preconditioning step 1/2:
+  Current y (detached): 0.008364688605070114
+  Current z (detached): 0.24869395792484283
+Preconditioning step 2/2:
+  Current y (detached): 0.009038222953677177
+  Current z (detached): 0.25944793224334717
+Final step 3/3:
+  Final y_hat: 0.009054280817508698
+  Final q_hat: 0.9418723583221436
+Preconditioning step 1/2:
+  Current y (detached): 0.00907218549400568
+  Current z (detached): 0.2595866024494171
+Preconditioning step 2/2:
+  Current y (detached): 0.009071150794625282
+  Current z (detached): 0.25958573818206787
+Final step 3/3:
+  Final y_hat: 0.009071063250303268
+  Final q_hat: 0.9415501952171326
+Preconditioning step 1/2:
+  Current y (detached): 0.009089767001569271
+  Current z (detached): 0.2593875527381897
+Preconditioning step 2/2:
+  Current y (detached): 0.009089685045182705
+  Current z (detached): 0.25938326120376587
+Final step 3/3:
+  Final y_hat: 0.009089662693440914
+  Final q_hat: 0.9411952495574951
+Preconditioning step 1/2:
+  Current y (detached): 0.008471461944282055
+  Current z (detached): 0.24876758456230164
+Preconditioning step 2/2:
+  Current y (detached): 0.009242909960448742
+  Current z (detached): 0.24955685436725616
+Final step 3/3:
+  Final y_hat: 0.009285209700465202
+  Final q_hat: 0.9202393293380737
+Preconditioning step 1/2:
+  Current y (detached): 0.00933065451681614
+  Current z (detached): 0.2500367760658264
+Preconditioning step 2/2:
+  Current y (detached): 0.009325861930847168
+  Current z (detached): 0.25005045533180237
+Final step 3/3:
+  Final y_hat: 0.009326353669166565
+  Final q_hat: 0.9201148748397827
+Preconditioning step 1/2:
+  Current y (detached): 0.009358614683151245
+  Current z (detached): 0.2505738437175751
+Preconditioning step 2/2:
+  Current y (detached): 0.009354335255920887
+  Current z (detached): 0.2505793273448944
+Final step 3/3:
+  Final y_hat: 0.009353116154670715
+  Final q_hat: 0.9205836057662964
+Preconditioning step 1/2:
+  Current y (detached): 0.010016446933150291
+  Current z (detached): 0.2731036841869354
+Preconditioning step 2/2:
+  Current y (detached): 0.009720765054225922
+  Current z (detached): 0.2588796019554138
+Final step 3/3:
+  Final y_hat: 0.009715164080262184
+  Final q_hat: 0.9415355920791626
+Preconditioning step 1/2:
+  Current y (detached): 0.009691709652543068
+  Current z (detached): 0.26127296686172485
+Preconditioning step 2/2:
+  Current y (detached): 0.009690307080745697
+  Current z (detached): 0.2612823247909546
+Final step 3/3:
+  Final y_hat: 0.009688830934464931
+  Final q_hat: 0.9418767690658569
+Preconditioning step 1/2:
+  Current y (detached): 0.009665748104453087
+  Current z (detached): 0.26187288761138916
+Preconditioning step 2/2:
+  Current y (detached): 0.009666054509580135
+  Current z (detached): 0.2618728280067444
+Final step 3/3:
+  Final y_hat: 0.009666139259934425
+  Final q_hat: 0.9421913623809814
+Preconditioning step 1/2:
+  Current y (detached): 0.009342066943645477
+  Current z (detached): 0.26817387342453003
+Preconditioning step 2/2:
+  Current y (detached): 0.009168583899736404
+  Current z (detached): 0.25188979506492615
+Final step 3/3:
+  Final y_hat: 0.0094269048422575
+  Final q_hat: 0.9245687127113342
+Preconditioning step 1/2:
+  Current y (detached): 0.009410436265170574
+  Current z (detached): 0.25403687357902527
+Preconditioning step 2/2:
+  Current y (detached): 0.009405437856912613
+  Current z (detached): 0.2540134787559509
+Final step 3/3:
+  Final y_hat: 0.0094062564894557
+  Final q_hat: 0.9248573780059814
+Preconditioning step 1/2:
+  Current y (detached): 0.009367253631353378
+  Current z (detached): 0.25441598892211914
+Preconditioning step 2/2:
+  Current y (detached): 0.00936807505786419
+  Current z (detached): 0.25441882014274597
+Final step 3/3:
+  Final y_hat: 0.00936800241470337
+  Final q_hat: 0.9252904653549194
+Preconditioning step 1/2:
+  Current y (detached): 0.009059648960828781
+  Current z (detached): 0.2586952745914459
+Preconditioning step 2/2:
+  Current y (detached): 0.009155374020338058
+  Current z (detached): 0.26228877902030945
+Final step 3/3:
+  Final y_hat: 0.009167441166937351
+  Final q_hat: 0.9414470791816711
+Preconditioning step 1/2:
+  Current y (detached): 0.009115082211792469
+  Current z (detached): 0.2625892758369446
+Preconditioning step 2/2:
+  Current y (detached): 0.009116251021623611
+  Current z (detached): 0.26259079575538635
+Final step 3/3:
+  Final y_hat: 0.009115936234593391
+  Final q_hat: 0.9415363669395447
+Preconditioning step 1/2:
+  Current y (detached): 0.009087493643164635
+  Current z (detached): 0.2628266513347626
+Preconditioning step 2/2:
+  Current y (detached): 0.009087233804166317
+  Current z (detached): 0.2628246545791626
+Final step 3/3:
+  Final y_hat: 0.00908711925148964
+  Final q_hat: 0.9415880441665649
+Preconditioning step 1/2:
+  Current y (detached): 0.009269611909985542
+  Current z (detached): 0.26190513372421265
+Preconditioning step 2/2:
+  Current y (detached): 0.00852375291287899
+  Current z (detached): 0.2596645951271057
+Final step 3/3:
+  Final y_hat: 0.008714660070836544
+  Final q_hat: 0.9403413534164429
+Preconditioning step 1/2:
+  Current y (detached): 0.008772194385528564
+  Current z (detached): 0.26249757409095764
+Preconditioning step 2/2:
+  Current y (detached): 0.008784211240708828
+  Current z (detached): 0.262524276971817
+Final step 3/3:
+  Final y_hat: 0.008786076679825783
+  Final q_hat: 0.9401044249534607
+Preconditioning step 1/2:
+  Current y (detached): 0.008846411481499672
+  Current z (detached): 0.2631971538066864
+Preconditioning step 2/2:
+  Current y (detached): 0.008847568184137344
+  Current z (detached): 0.2632178068161011
+Final step 3/3:
+  Final y_hat: 0.008847895078361034
+  Final q_hat: 0.9403245449066162
+Epoch [7/20] finished, Average Loss: 0.0160
+Preconditioning step 1/2:
+  Current y (detached): 0.008531458675861359
+  Current z (detached): 0.25561848282814026
+Preconditioning step 2/2:
+  Current y (detached): 0.0090637793764472
+  Current z (detached): 0.2642291188240051
+Final step 3/3:
+  Final y_hat: 0.009074695408344269
+  Final q_hat: 0.9415402412414551
+Preconditioning step 1/2:
+  Current y (detached): 0.009123595431447029
+  Current z (detached): 0.26484230160713196
+Preconditioning step 2/2:
+  Current y (detached): 0.009123018942773342
+  Current z (detached): 0.26483333110809326
+Final step 3/3:
+  Final y_hat: 0.009122923016548157
+  Final q_hat: 0.9415940046310425
+Preconditioning step 1/2:
+  Current y (detached): 0.009180732071399689
+  Current z (detached): 0.2653752565383911
+Preconditioning step 2/2:
+  Current y (detached): 0.009180877357721329
+  Current z (detached): 0.2653762996196747
+Final step 3/3:
+  Final y_hat: 0.009180932305753231
+  Final q_hat: 0.9417213201522827
+Preconditioning step 1/2:
+  Current y (detached): 0.008258751593530178
+  Current z (detached): 0.28684329986572266
+Preconditioning step 2/2:
+  Current y (detached): 0.009530862793326378
+  Current z (detached): 0.2658708095550537
+Final step 3/3:
+  Final y_hat: 0.009576650336384773
+  Final q_hat: 0.9434607028961182
+Preconditioning step 1/2:
+  Current y (detached): 0.009604454971849918
+  Current z (detached): 0.2671312987804413
+Preconditioning step 2/2:
+  Current y (detached): 0.009606264531612396
+  Current z (detached): 0.2671630084514618
+Final step 3/3:
+  Final y_hat: 0.009606834501028061
+  Final q_hat: 0.9435526132583618
+Preconditioning step 1/2:
+  Current y (detached): 0.009611188434064388
+  Current z (detached): 0.2674331068992615
+Preconditioning step 2/2:
+  Current y (detached): 0.009611428715288639
+  Current z (detached): 0.26743456721305847
+Final step 3/3:
+  Final y_hat: 0.009611456654965878
+  Final q_hat: 0.9434194564819336
+Preconditioning step 1/2:
+  Current y (detached): 0.008711249567568302
+  Current z (detached): 0.25855469703674316
+Preconditioning step 2/2:
+  Current y (detached): 0.00938073918223381
+  Current z (detached): 0.26545679569244385
+Final step 3/3:
+  Final y_hat: 0.009441244415938854
+  Final q_hat: 0.9425697326660156
+Preconditioning step 1/2:
+  Current y (detached): 0.009428169578313828
+  Current z (detached): 0.2665162682533264
+Preconditioning step 2/2:
+  Current y (detached): 0.009428152814507484
+  Current z (detached): 0.26651430130004883
+Final step 3/3:
+  Final y_hat: 0.009427733719348907
+  Final q_hat: 0.9422557353973389
+Preconditioning step 1/2:
+  Current y (detached): 0.009400390088558197
+  Current z (detached): 0.2666611671447754
+Preconditioning step 2/2:
+  Current y (detached): 0.009400879964232445
+  Current z (detached): 0.2666631042957306
+Final step 3/3:
+  Final y_hat: 0.0094008669257164
+  Final q_hat: 0.9419580698013306
+Preconditioning step 1/2:
+  Current y (detached): 0.008752480149269104
+  Current z (detached): 0.2622377276420593
+Preconditioning step 2/2:
+  Current y (detached): 0.009033780544996262
+  Current z (detached): 0.26735997200012207
+Final step 3/3:
+  Final y_hat: 0.009050878696143627
+  Final q_hat: 0.941722571849823
+Preconditioning step 1/2:
+  Current y (detached): 0.00904061272740364
+  Current z (detached): 0.2675827145576477
+Preconditioning step 2/2:
+  Current y (detached): 0.009040717035531998
+  Current z (detached): 0.26758235692977905
+Final step 3/3:
+  Final y_hat: 0.009040658362209797
+  Final q_hat: 0.9414993524551392
+Preconditioning step 1/2:
+  Current y (detached): 0.009046562016010284
+  Current z (detached): 0.2676295042037964
+Preconditioning step 2/2:
+  Current y (detached): 0.009047022089362144
+  Current z (detached): 0.2676292061805725
+Final step 3/3:
+  Final y_hat: 0.009047015570104122
+  Final q_hat: 0.9413045048713684
+Preconditioning step 1/2:
+  Current y (detached): 0.008485997095704079
+  Current z (detached): 0.28711116313934326
+Preconditioning step 2/2:
+  Current y (detached): 0.008995086885988712
+  Current z (detached): 0.26098060607910156
+Final step 3/3:
+  Final y_hat: 0.009451674297451973
+  Final q_hat: 0.9395855665206909
+Preconditioning step 1/2:
+  Current y (detached): 0.009488950483500957
+  Current z (detached): 0.2677266299724579
+Preconditioning step 2/2:
+  Current y (detached): 0.00948392041027546
+  Current z (detached): 0.2677542567253113
+Final step 3/3:
+  Final y_hat: 0.009483100846409798
+  Final q_hat: 0.9398635625839233
+Preconditioning step 1/2:
+  Current y (detached): 0.009508855640888214
+  Current z (detached): 0.26814842224121094
+Preconditioning step 2/2:
+  Current y (detached): 0.00950898602604866
+  Current z (detached): 0.26814740896224976
+Final step 3/3:
+  Final y_hat: 0.009509054943919182
+  Final q_hat: 0.9398239850997925
+Preconditioning step 1/2:
+  Current y (detached): 0.009217020124197006
+  Current z (detached): 0.26127129793167114
+Preconditioning step 2/2:
+  Current y (detached): 0.009397845715284348
+  Current z (detached): 0.2685464024543762
+Final step 3/3:
+  Final y_hat: 0.00941515527665615
+  Final q_hat: 0.9401000738143921
+Preconditioning step 1/2:
+  Current y (detached): 0.00943335797637701
+  Current z (detached): 0.2690160274505615
+Preconditioning step 2/2:
+  Current y (detached): 0.009433403611183167
+  Current z (detached): 0.2690163850784302
+Final step 3/3:
+  Final y_hat: 0.009433455765247345
+  Final q_hat: 0.9401520490646362
+Preconditioning step 1/2:
+  Current y (detached): 0.009445371106266975
+  Current z (detached): 0.2694193124771118
+Preconditioning step 2/2:
+  Current y (detached): 0.009445241652429104
+  Current z (detached): 0.2694185674190521
+Final step 3/3:
+  Final y_hat: 0.00944527704268694
+  Final q_hat: 0.9402223229408264
+Preconditioning step 1/2:
+  Current y (detached): 0.00926897767931223
+  Current z (detached): 0.2678915858268738
+Preconditioning step 2/2:
+  Current y (detached): 0.009472711943089962
+  Current z (detached): 0.2704640030860901
+Final step 3/3:
+  Final y_hat: 0.009482326917350292
+  Final q_hat: 0.9403545260429382
+Preconditioning step 1/2:
+  Current y (detached): 0.009484048932790756
+  Current z (detached): 0.2707926034927368
+Preconditioning step 2/2:
+  Current y (detached): 0.0094837611541152
+  Current z (detached): 0.2707909941673279
+Final step 3/3:
+  Final y_hat: 0.009483743458986282
+  Final q_hat: 0.9404152631759644
+Preconditioning step 1/2:
+  Current y (detached): 0.00947992317378521
+  Current z (detached): 0.27107128500938416
+Preconditioning step 2/2:
+  Current y (detached): 0.009479716420173645
+  Current z (detached): 0.2710707187652588
+Final step 3/3:
+  Final y_hat: 0.009479708038270473
+  Final q_hat: 0.9404455423355103
+Preconditioning step 1/2:
+  Current y (detached): 0.009577303193509579
+  Current z (detached): 0.2839314937591553
+Preconditioning step 2/2:
+  Current y (detached): 0.008994018658995628
+  Current z (detached): 0.26490604877471924
+Final step 3/3:
+  Final y_hat: 0.0097655626013875
+  Final q_hat: 0.9413797855377197
+Preconditioning step 1/2:
+  Current y (detached): 0.009739167056977749
+  Current z (detached): 0.27217844128608704
+Preconditioning step 2/2:
+  Current y (detached): 0.009742180816829205
+  Current z (detached): 0.2721838355064392
+Final step 3/3:
+  Final y_hat: 0.0097422506660223
+  Final q_hat: 0.9414467811584473
+Preconditioning step 1/2:
+  Current y (detached): 0.009688152000308037
+  Current z (detached): 0.27229127287864685
+Preconditioning step 2/2:
+  Current y (detached): 0.009688213467597961
+  Current z (detached): 0.272291362285614
+Final step 3/3:
+  Final y_hat: 0.009688211604952812
+  Final q_hat: 0.9412878751754761
+Epoch [8/20] finished, Average Loss: 0.0147
+Preconditioning step 1/2:
+  Current y (detached): 0.009011049754917622
+  Current z (detached): 0.26396244764328003
+Preconditioning step 2/2:
+  Current y (detached): 0.009262064471840858
+  Current z (detached): 0.2711943984031677
+Final step 3/3:
+  Final y_hat: 0.009281428530812263
+  Final q_hat: 0.9397962093353271
+Preconditioning step 1/2:
+  Current y (detached): 0.009235571138560772
+  Current z (detached): 0.27122026681900024
+Preconditioning step 2/2:
+  Current y (detached): 0.009235831908881664
+  Current z (detached): 0.2712218761444092
+Final step 3/3:
+  Final y_hat: 0.009235827252268791
+  Final q_hat: 0.9396316409111023
+Preconditioning step 1/2:
+  Current y (detached): 0.009200560860335827
+  Current z (detached): 0.2713664770126343
+Preconditioning step 2/2:
+  Current y (detached): 0.009200617671012878
+  Current z (detached): 0.27136680483818054
+Final step 3/3:
+  Final y_hat: 0.00920061580836773
+  Final q_hat: 0.9395332932472229
+Preconditioning step 1/2:
+  Current y (detached): 0.008596348576247692
+  Current z (detached): 0.2650226056575775
+Preconditioning step 2/2:
+  Current y (detached): 0.009275352582335472
+  Current z (detached): 0.27216649055480957
+Final step 3/3:
+  Final y_hat: 0.009277346543967724
+  Final q_hat: 0.9401158690452576
+Preconditioning step 1/2:
+  Current y (detached): 0.009254197590053082
+  Current z (detached): 0.2725900709629059
+Preconditioning step 2/2:
+  Current y (detached): 0.009254354052245617
+  Current z (detached): 0.2725904881954193
+Final step 3/3:
+  Final y_hat: 0.009254371747374535
+  Final q_hat: 0.9401111602783203
+Preconditioning step 1/2:
+  Current y (detached): 0.009235864505171776
+  Current z (detached): 0.27281785011291504
+Preconditioning step 2/2:
+  Current y (detached): 0.009235954843461514
+  Current z (detached): 0.27281782031059265
+Final step 3/3:
+  Final y_hat: 0.009235954843461514
+  Final q_hat: 0.9401650428771973
+Preconditioning step 1/2:
+  Current y (detached): 0.008681274950504303
+  Current z (detached): 0.276316374540329
+Preconditioning step 2/2:
+  Current y (detached): 0.00885885488241911
+  Current z (detached): 0.26377853751182556
+Final step 3/3:
+  Final y_hat: 0.009189552627503872
+  Final q_hat: 0.9393460750579834
+Preconditioning step 1/2:
+  Current y (detached): 0.009167800657451153
+  Current z (detached): 0.272522509098053
+Preconditioning step 2/2:
+  Current y (detached): 0.009168712422251701
+  Current z (detached): 0.2725273370742798
+Final step 3/3:
+  Final y_hat: 0.009168672375380993
+  Final q_hat: 0.9396236538887024
+Preconditioning step 1/2:
+  Current y (detached): 0.00916708167642355
+  Current z (detached): 0.27281057834625244
+Preconditioning step 2/2:
+  Current y (detached): 0.009166980162262917
+  Current z (detached): 0.27280953526496887
+Final step 3/3:
+  Final y_hat: 0.009166965261101723
+  Final q_hat: 0.9397997856140137
+Preconditioning step 1/2:
+  Current y (detached): 0.008922310546040535
+  Current z (detached): 0.27014169096946716
+Preconditioning step 2/2:
+  Current y (detached): 0.009219661355018616
+  Current z (detached): 0.27372443675994873
+Final step 3/3:
+  Final y_hat: 0.00922076590359211
+  Final q_hat: 0.9402519464492798
+Preconditioning step 1/2:
+  Current y (detached): 0.009238211438059807
+  Current z (detached): 0.27402979135513306
+Preconditioning step 2/2:
+  Current y (detached): 0.009238524362444878
+  Current z (detached): 0.27403169870376587
+Final step 3/3:
+  Final y_hat: 0.0092385895550251
+  Final q_hat: 0.940405011177063
+Preconditioning step 1/2:
+  Current y (detached): 0.009258984588086605
+  Current z (detached): 0.274331271648407
+Preconditioning step 2/2:
+  Current y (detached): 0.009258942678570747
+  Current z (detached): 0.27433133125305176
+Final step 3/3:
+  Final y_hat: 0.009258955717086792
+  Final q_hat: 0.940544605255127
+Preconditioning step 1/2:
+  Current y (detached): 0.008965013548731804
+  Current z (detached): 0.26140743494033813
+Preconditioning step 2/2:
+  Current y (detached): 0.009113337844610214
+  Current z (detached): 0.26437970995903015
+Final step 3/3:
+  Final y_hat: 0.009112787432968616
+  Final q_hat: 0.9229178428649902
+Preconditioning step 1/2:
+  Current y (detached): 0.009121304377913475
+  Current z (detached): 0.2660757005214691
+Preconditioning step 2/2:
+  Current y (detached): 0.009121901355683804
+  Current z (detached): 0.2660687565803528
+Final step 3/3:
+  Final y_hat: 0.009122032672166824
+  Final q_hat: 0.9233651161193848
+Preconditioning step 1/2:
+  Current y (detached): 0.009119841270148754
+  Current z (detached): 0.2663320302963257
+Preconditioning step 2/2:
+  Current y (detached): 0.009119903668761253
+  Current z (detached): 0.2663317322731018
+Final step 3/3:
+  Final y_hat: 0.009119926020503044
+  Final q_hat: 0.9238302707672119
+Preconditioning step 1/2:
+  Current y (detached): 0.008641768246889114
+  Current z (detached): 0.2934447228908539
+Preconditioning step 2/2:
+  Current y (detached): 0.009160049259662628
+  Current z (detached): 0.2737901210784912
+Final step 3/3:
+  Final y_hat: 0.00921884085983038
+  Final q_hat: 0.9412059783935547
+Preconditioning step 1/2:
+  Current y (detached): 0.00921179074794054
+  Current z (detached): 0.27481991052627563
+Preconditioning step 2/2:
+  Current y (detached): 0.009210776537656784
+  Current z (detached): 0.2748105525970459
+Final step 3/3:
+  Final y_hat: 0.009210487827658653
+  Final q_hat: 0.9413221478462219
+Preconditioning step 1/2:
+  Current y (detached): 0.009213408455252647
+  Current z (detached): 0.27496761083602905
+Preconditioning step 2/2:
+  Current y (detached): 0.009213477373123169
+  Current z (detached): 0.27496787905693054
+Final step 3/3:
+  Final y_hat: 0.009213472716510296
+  Final q_hat: 0.9414085149765015
+Preconditioning step 1/2:
+  Current y (detached): 0.008555174805223942
+  Current z (detached): 0.27029889822006226
+Preconditioning step 2/2:
+  Current y (detached): 0.009401424787938595
+  Current z (detached): 0.27553415298461914
+Final step 3/3:
+  Final y_hat: 0.00942899938672781
+  Final q_hat: 0.9426597952842712
+Preconditioning step 1/2:
+  Current y (detached): 0.009441738948225975
+  Current z (detached): 0.2765779197216034
+Preconditioning step 2/2:
+  Current y (detached): 0.00944196805357933
+  Current z (detached): 0.2765826880931854
+Final step 3/3:
+  Final y_hat: 0.009442104957997799
+  Final q_hat: 0.9427146911621094
+Preconditioning step 1/2:
+  Current y (detached): 0.009455887600779533
+  Current z (detached): 0.2766229212284088
+Preconditioning step 2/2:
+  Current y (detached): 0.00945595744997263
+  Current z (detached): 0.2766232490539551
+Final step 3/3:
+  Final y_hat: 0.009455963969230652
+  Final q_hat: 0.9426854252815247
+Preconditioning step 1/2:
+  Current y (detached): 0.008946175687015057
+  Current z (detached): 0.2712823152542114
+Preconditioning step 2/2:
+  Current y (detached): 0.0089298440143466
+  Current z (detached): 0.2738226652145386
+Final step 3/3:
+  Final y_hat: 0.008965088985860348
+  Final q_hat: 0.9401096105575562
+Preconditioning step 1/2:
+  Current y (detached): 0.008996369317173958
+  Current z (detached): 0.2745116949081421
+Preconditioning step 2/2:
+  Current y (detached): 0.00899647455662489
+  Current z (detached): 0.27450740337371826
+Final step 3/3:
+  Final y_hat: 0.008996463380753994
+  Final q_hat: 0.9400126934051514
+Preconditioning step 1/2:
+  Current y (detached): 0.009032650850713253
+  Current z (detached): 0.27459973096847534
+Preconditioning step 2/2:
+  Current y (detached): 0.00903267227113247
+  Current z (detached): 0.27459976077079773
+Final step 3/3:
+  Final y_hat: 0.009032664820551872
+  Final q_hat: 0.940085768699646
+Epoch [9/20] finished, Average Loss: 0.0150
+Preconditioning step 1/2:
+  Current y (detached): 0.009114861488342285
+  Current z (detached): 0.29061681032180786
+Preconditioning step 2/2:
+  Current y (detached): 0.00876554474234581
+  Current z (detached): 0.26822781562805176
+Final step 3/3:
+  Final y_hat: 0.009229798801243305
+  Final q_hat: 0.9407591819763184
+Preconditioning step 1/2:
+  Current y (detached): 0.00934834685176611
+  Current z (detached): 0.27647680044174194
+Preconditioning step 2/2:
+  Current y (detached): 0.009347183629870415
+  Current z (detached): 0.27646997570991516
+Final step 3/3:
+  Final y_hat: 0.009347209706902504
+  Final q_hat: 0.9418749809265137
+Preconditioning step 1/2:
+  Current y (detached): 0.009361817501485348
+  Current z (detached): 0.2768462896347046
+Preconditioning step 2/2:
+  Current y (detached): 0.0093617532402277
+  Current z (detached): 0.27684614062309265
+Final step 3/3:
+  Final y_hat: 0.009361756965517998
+  Final q_hat: 0.941986620426178
+Preconditioning step 1/2:
+  Current y (detached): 0.008956912904977798
+  Current z (detached): 0.2727978825569153
+Preconditioning step 2/2:
+  Current y (detached): 0.009028401225805283
+  Current z (detached): 0.2733713686466217
+Final step 3/3:
+  Final y_hat: 0.009064838290214539
+  Final q_hat: 0.9340357184410095
+Preconditioning step 1/2:
+  Current y (detached): 0.009230067953467369
+  Current z (detached): 0.2767413258552551
+Preconditioning step 2/2:
+  Current y (detached): 0.00922317709773779
+  Current z (detached): 0.27667921781539917
+Final step 3/3:
+  Final y_hat: 0.009219848550856113
+  Final q_hat: 0.9409389495849609
+Preconditioning step 1/2:
+  Current y (detached): 0.009171165525913239
+  Current z (detached): 0.2772154211997986
+Preconditioning step 2/2:
+  Current y (detached): 0.009170282632112503
+  Current z (detached): 0.2772091031074524
+Final step 3/3:
+  Final y_hat: 0.009170369245111942
+  Final q_hat: 0.9410995244979858
+Preconditioning step 1/2:
+  Current y (detached): 0.008722532540559769
+  Current z (detached): 0.2725849449634552
+Preconditioning step 2/2:
+  Current y (detached): 0.009000565856695175
+  Current z (detached): 0.2804657518863678
+Final step 3/3:
+  Final y_hat: 0.00900163035839796
+  Final q_hat: 0.9436240196228027
+Preconditioning step 1/2:
+  Current y (detached): 0.008991975337266922
+  Current z (detached): 0.2810917794704437
+Preconditioning step 2/2:
+  Current y (detached): 0.008992115035653114
+  Current z (detached): 0.2810935378074646
+Final step 3/3:
+  Final y_hat: 0.008992120623588562
+  Final q_hat: 0.9439492225646973
+Preconditioning step 1/2:
+  Current y (detached): 0.008996011689305305
+  Current z (detached): 0.2814164161682129
+Preconditioning step 2/2:
+  Current y (detached): 0.008996198885142803
+  Current z (detached): 0.2814173698425293
+Final step 3/3:
+  Final y_hat: 0.008996203541755676
+  Final q_hat: 0.94407057762146
+Preconditioning step 1/2:
+  Current y (detached): 0.008691472932696342
+  Current z (detached): 0.27174776792526245
+Preconditioning step 2/2:
+  Current y (detached): 0.008679687976837158
+  Current z (detached): 0.2709592282772064
+Final step 3/3:
+  Final y_hat: 0.009091866202652454
+  Final q_hat: 0.9432644844055176
+Preconditioning step 1/2:
+  Current y (detached): 0.009105410426855087
+  Current z (detached): 0.2803160846233368
+Preconditioning step 2/2:
+  Current y (detached): 0.00910507794469595
+  Current z (detached): 0.2803226113319397
+Final step 3/3:
+  Final y_hat: 0.009105075150728226
+  Final q_hat: 0.9430610537528992
+Preconditioning step 1/2:
+  Current y (detached): 0.009123839437961578
+  Current z (detached): 0.28029119968414307
+Preconditioning step 2/2:
+  Current y (detached): 0.009124178439378738
+  Current z (detached): 0.28029152750968933
+Final step 3/3:
+  Final y_hat: 0.009124178439378738
+  Final q_hat: 0.9429338574409485
+Preconditioning step 1/2:
+  Current y (detached): 0.008813096210360527
+  Current z (detached): 0.2943620979785919
+Preconditioning step 2/2:
+  Current y (detached): 0.008997483178973198
+  Current z (detached): 0.2787536382675171
+Final step 3/3:
+  Final y_hat: 0.009366141632199287
+  Final q_hat: 0.9384384155273438
+Preconditioning step 1/2:
+  Current y (detached): 0.009368417784571648
+  Current z (detached): 0.2801792025566101
+Preconditioning step 2/2:
+  Current y (detached): 0.0093788867816329
+  Current z (detached): 0.28015971183776855
+Final step 3/3:
+  Final y_hat: 0.009379439987242222
+  Final q_hat: 0.9407355785369873
+Preconditioning step 1/2:
+  Current y (detached): 0.00944717787206173
+  Current z (detached): 0.28079932928085327
+Preconditioning step 2/2:
+  Current y (detached): 0.00944728497415781
+  Current z (detached): 0.28079915046691895
+Final step 3/3:
+  Final y_hat: 0.009447290562093258
+  Final q_hat: 0.9406023025512695
+Preconditioning step 1/2:
+  Current y (detached): 0.008905569091439247
+  Current z (detached): 0.2818205654621124
+Preconditioning step 2/2:
+  Current y (detached): 0.009614208713173866
+  Current z (detached): 0.2820967733860016
+Final step 3/3:
+  Final y_hat: 0.009579499252140522
+  Final q_hat: 0.940730094909668
+Preconditioning step 1/2:
+  Current y (detached): 0.009622771292924881
+  Current z (detached): 0.28262391686439514
+Preconditioning step 2/2:
+  Current y (detached): 0.009622985497117043
+  Current z (detached): 0.2826223373413086
+Final step 3/3:
+  Final y_hat: 0.009622983634471893
+  Final q_hat: 0.9405332207679749
+Preconditioning step 1/2:
+  Current y (detached): 0.009638749063014984
+  Current z (detached): 0.2830045223236084
+Preconditioning step 2/2:
+  Current y (detached): 0.009638690389692783
+  Current z (detached): 0.28300419449806213
+Final step 3/3:
+  Final y_hat: 0.009638689458370209
+  Final q_hat: 0.94035804271698
+Preconditioning step 1/2:
+  Current y (detached): 0.008858069777488708
+  Current z (detached): 0.27240878343582153
+Preconditioning step 2/2:
+  Current y (detached): 0.00938401184976101
+  Current z (detached): 0.28179216384887695
+Final step 3/3:
+  Final y_hat: 0.009395310655236244
+  Final q_hat: 0.9432644844055176
+Preconditioning step 1/2:
+  Current y (detached): 0.009380407631397247
+  Current z (detached): 0.28269708156585693
+Preconditioning step 2/2:
+  Current y (detached): 0.009380416944622993
+  Current z (detached): 0.2826971411705017
+Final step 3/3:
+  Final y_hat: 0.009380416944622993
+  Final q_hat: 0.9431371092796326
+Preconditioning step 1/2:
+  Current y (detached): 0.00936172530055046
+  Current z (detached): 0.28288358449935913
+Preconditioning step 2/2:
+  Current y (detached): 0.009361743927001953
+  Current z (detached): 0.282883882522583
+Final step 3/3:
+  Final y_hat: 0.009361750446259975
+  Final q_hat: 0.9430587291717529
+Preconditioning step 1/2:
+  Current y (detached): 0.00871717557311058
+  Current z (detached): 0.28125447034835815
+Preconditioning step 2/2:
+  Current y (detached): 0.009458616375923157
+  Current z (detached): 0.28215593099594116
+Final step 3/3:
+  Final y_hat: 0.00944102555513382
+  Final q_hat: 0.9387434720993042
+Preconditioning step 1/2:
+  Current y (detached): 0.009400011040270329
+  Current z (detached): 0.28278660774230957
+Preconditioning step 2/2:
+  Current y (detached): 0.009400072507560253
+  Current z (detached): 0.2827858328819275
+Final step 3/3:
+  Final y_hat: 0.009400059469044209
+  Final q_hat: 0.9386410713195801
+Preconditioning step 1/2:
+  Current y (detached): 0.009355045855045319
+  Current z (detached): 0.28303149342536926
+Preconditioning step 2/2:
+  Current y (detached): 0.00935506634414196
+  Current z (detached): 0.2830312252044678
+Final step 3/3:
+  Final y_hat: 0.009355046786367893
+  Final q_hat: 0.9386138916015625
+Epoch [10/20] finished, Average Loss: 0.0147
+Preconditioning step 1/2:
+  Current y (detached): 0.008790049701929092
+  Current z (detached): 0.272583544254303
+Preconditioning step 2/2:
+  Current y (detached): 0.00912066362798214
+  Current z (detached): 0.2828425168991089
+Final step 3/3:
+  Final y_hat: 0.009126562625169754
+  Final q_hat: 0.9424199461936951
+Preconditioning step 1/2:
+  Current y (detached): 0.009101379662752151
+  Current z (detached): 0.283231258392334
+Preconditioning step 2/2:
+  Current y (detached): 0.009101363830268383
+  Current z (detached): 0.283231645822525
+Final step 3/3:
+  Final y_hat: 0.009101366624236107
+  Final q_hat: 0.9425715208053589
+Preconditioning step 1/2:
+  Current y (detached): 0.009088448248803616
+  Current z (detached): 0.28370821475982666
+Preconditioning step 2/2:
+  Current y (detached): 0.009088430553674698
+  Current z (detached): 0.28370845317840576
+Final step 3/3:
+  Final y_hat: 0.009088432416319847
+  Final q_hat: 0.9427620768547058
+Preconditioning step 1/2:
+  Current y (detached): 0.009019101969897747
+  Current z (detached): 0.2809910774230957
+Preconditioning step 2/2:
+  Current y (detached): 0.009134756401181221
+  Current z (detached): 0.28486448526382446
+Final step 3/3:
+  Final y_hat: 0.009138166904449463
+  Final q_hat: 0.943284273147583
+Preconditioning step 1/2:
+  Current y (detached): 0.009135814383625984
+  Current z (detached): 0.28517335653305054
+Preconditioning step 2/2:
+  Current y (detached): 0.009135737083852291
+  Current z (detached): 0.28517311811447144
+Final step 3/3:
+  Final y_hat: 0.00913572870194912
+  Final q_hat: 0.9433935880661011
+Preconditioning step 1/2:
+  Current y (detached): 0.009136535227298737
+  Current z (detached): 0.28534209728240967
+Preconditioning step 2/2:
+  Current y (detached): 0.00913651566952467
+  Current z (detached): 0.285342276096344
+Final step 3/3:
+  Final y_hat: 0.00913651380687952
+  Final q_hat: 0.9434286952018738
+Preconditioning step 1/2:
+  Current y (detached): 0.009202912449836731
+  Current z (detached): 0.27234935760498047
+Preconditioning step 2/2:
+  Current y (detached): 0.009140069596469402
+  Current z (detached): 0.28566640615463257
+Final step 3/3:
+  Final y_hat: 0.009153344668447971
+  Final q_hat: 0.9437655806541443
+Preconditioning step 1/2:
+  Current y (detached): 0.009159632958471775
+  Current z (detached): 0.28579625487327576
+Preconditioning step 2/2:
+  Current y (detached): 0.009159708395600319
+  Current z (detached): 0.28579574823379517
+Final step 3/3:
+  Final y_hat: 0.0091596944257617
+  Final q_hat: 0.9436360001564026
+Preconditioning step 1/2:
+  Current y (detached): 0.009172879159450531
+  Current z (detached): 0.285672664642334
+Preconditioning step 2/2:
+  Current y (detached): 0.009173307567834854
+  Current z (detached): 0.2856734097003937
+Final step 3/3:
+  Final y_hat: 0.009173305705189705
+  Final q_hat: 0.9434441328048706
+Preconditioning step 1/2:
+  Current y (detached): 0.010608455166220665
+  Current z (detached): 0.29737091064453125
+Preconditioning step 2/2:
+  Current y (detached): 0.008564344607293606
+  Current z (detached): 0.2912317216396332
+Final step 3/3:
+  Final y_hat: 0.009209070354700089
+  Final q_hat: 0.9438360929489136
+Preconditioning step 1/2:
+  Current y (detached): 0.00925107579678297
+  Current z (detached): 0.285933256149292
+Preconditioning step 2/2:
+  Current y (detached): 0.009253374300897121
+  Current z (detached): 0.285945326089859
+Final step 3/3:
+  Final y_hat: 0.009253473952412605
+  Final q_hat: 0.943496823310852
+Preconditioning step 1/2:
+  Current y (detached): 0.009270510636270046
+  Current z (detached): 0.28571102023124695
+Preconditioning step 2/2:
+  Current y (detached): 0.009271095506846905
+  Current z (detached): 0.28571099042892456
+Final step 3/3:
+  Final y_hat: 0.009271099232137203
+  Final q_hat: 0.9431788325309753
+Preconditioning step 1/2:
+  Current y (detached): 0.010275338776409626
+  Current z (detached): 0.3066941499710083
+Preconditioning step 2/2:
+  Current y (detached): 0.009239093400537968
+  Current z (detached): 0.2746224105358124
+Final step 3/3:
+  Final y_hat: 0.009298920631408691
+  Final q_hat: 0.942184329032898
+Preconditioning step 1/2:
+  Current y (detached): 0.009304480627179146
+  Current z (detached): 0.284512996673584
+Preconditioning step 2/2:
+  Current y (detached): 0.009304898791015148
+  Current z (detached): 0.28452175855636597
+Final step 3/3:
+  Final y_hat: 0.009304877370595932
+  Final q_hat: 0.9419347047805786
+Preconditioning step 1/2:
+  Current y (detached): 0.009311357513070107
+  Current z (detached): 0.2845667600631714
+Preconditioning step 2/2:
+  Current y (detached): 0.009311631321907043
+  Current z (detached): 0.2845669984817505
+Final step 3/3:
+  Final y_hat: 0.009311634115874767
+  Final q_hat: 0.9418227672576904
+Preconditioning step 1/2:
+  Current y (detached): 0.009629052132368088
+  Current z (detached): 0.29861292243003845
+Preconditioning step 2/2:
+  Current y (detached): 0.009151671081781387
+  Current z (detached): 0.2795448899269104
+Final step 3/3:
+  Final y_hat: 0.009327377192676067
+  Final q_hat: 0.9352446794509888
+Preconditioning step 1/2:
+  Current y (detached): 0.009316307492554188
+  Current z (detached): 0.2859342694282532
+Preconditioning step 2/2:
+  Current y (detached): 0.009315954521298409
+  Current z (detached): 0.2859325110912323
+Final step 3/3:
+  Final y_hat: 0.00931592658162117
+  Final q_hat: 0.9352114796638489
+Preconditioning step 1/2:
+  Current y (detached): 0.00930117629468441
+  Current z (detached): 0.28630250692367554
+Preconditioning step 2/2:
+  Current y (detached): 0.009301155805587769
+  Current z (detached): 0.2863020598888397
+Final step 3/3:
+  Final y_hat: 0.009301163256168365
+  Final q_hat: 0.9353141784667969
+Preconditioning step 1/2:
+  Current y (detached): 0.008638917468488216
+  Current z (detached): 0.2781636118888855
+Preconditioning step 2/2:
+  Current y (detached): 0.009107181802392006
+  Current z (detached): 0.28595373034477234
+Final step 3/3:
+  Final y_hat: 0.00912078469991684
+  Final q_hat: 0.9424257278442383
+Preconditioning step 1/2:
+  Current y (detached): 0.009113900363445282
+  Current z (detached): 0.2864516079425812
+Preconditioning step 2/2:
+  Current y (detached): 0.009114032611250877
+  Current z (detached): 0.28645211458206177
+Final step 3/3:
+  Final y_hat: 0.009114043787121773
+  Final q_hat: 0.9426665306091309
+Preconditioning step 1/2:
+  Current y (detached): 0.009112791158258915
+  Current z (detached): 0.28693926334381104
+Preconditioning step 2/2:
+  Current y (detached): 0.00911293551325798
+  Current z (detached): 0.2869400084018707
+Final step 3/3:
+  Final y_hat: 0.009112944826483727
+  Final q_hat: 0.9429131746292114
+Preconditioning step 1/2:
+  Current y (detached): 0.008944948203861713
+  Current z (detached): 0.31207460165023804
+Preconditioning step 2/2:
+  Current y (detached): 0.009091115556657314
+  Current z (detached): 0.28350913524627686
+Final step 3/3:
+  Final y_hat: 0.009207552298903465
+  Final q_hat: 0.9359841346740723
+Preconditioning step 1/2:
+  Current y (detached): 0.009205196984112263
+  Current z (detached): 0.2878401279449463
+Preconditioning step 2/2:
+  Current y (detached): 0.009204734116792679
+  Current z (detached): 0.28784164786338806
+Final step 3/3:
+  Final y_hat: 0.009204722940921783
+  Final q_hat: 0.936293363571167
+Preconditioning step 1/2:
+  Current y (detached): 0.009195993654429913
+  Current z (detached): 0.2881588935852051
+Preconditioning step 2/2:
+  Current y (detached): 0.009195877239108086
+  Current z (detached): 0.2881588339805603
+Final step 3/3:
+  Final y_hat: 0.009195880964398384
+  Final q_hat: 0.9366116523742676
+Epoch [11/20] finished, Average Loss: 0.0142
+Preconditioning step 1/2:
+  Current y (detached): 0.008536498062312603
+  Current z (detached): 0.3005182147026062
+Preconditioning step 2/2:
+  Current y (detached): 0.00919908657670021
+  Current z (detached): 0.2884710729122162
+Final step 3/3:
+  Final y_hat: 0.009230438619852066
+  Final q_hat: 0.9368124008178711
+Preconditioning step 1/2:
+  Current y (detached): 0.009221524931490421
+  Current z (detached): 0.2887546420097351
+Preconditioning step 2/2:
+  Current y (detached): 0.009221354499459267
+  Current z (detached): 0.28875720500946045
+Final step 3/3:
+  Final y_hat: 0.00922138150781393
+  Final q_hat: 0.9372038245201111
+Preconditioning step 1/2:
+  Current y (detached): 0.009215552359819412
+  Current z (detached): 0.288996160030365
+Preconditioning step 2/2:
+  Current y (detached): 0.00921558029949665
+  Current z (detached): 0.2889957129955292
+Final step 3/3:
+  Final y_hat: 0.009215574711561203
+  Final q_hat: 0.9376268982887268
+Preconditioning step 1/2:
+  Current y (detached): 0.00973349530249834
+  Current z (detached): 0.28631341457366943
+Preconditioning step 2/2:
+  Current y (detached): 0.00910876877605915
+  Current z (detached): 0.2896145284175873
+Final step 3/3:
+  Final y_hat: 0.009123023599386215
+  Final q_hat: 0.9444409012794495
+Preconditioning step 1/2:
+  Current y (detached): 0.009106762707233429
+  Current z (detached): 0.2898426949977875
+Preconditioning step 2/2:
+  Current y (detached): 0.00910695269703865
+  Current z (detached): 0.2898428440093994
+Final step 3/3:
+  Final y_hat: 0.009106959216296673
+  Final q_hat: 0.9443989992141724
+Preconditioning step 1/2:
+  Current y (detached): 0.00909088458865881
+  Current z (detached): 0.28977084159851074
+Preconditioning step 2/2:
+  Current y (detached): 0.00909097958356142
+  Current z (detached): 0.28977063298225403
+Final step 3/3:
+  Final y_hat: 0.009090980514883995
+  Final q_hat: 0.9442764520645142
+Preconditioning step 1/2:
+  Current y (detached): 0.009150381200015545
+  Current z (detached): 0.3138207197189331
+Preconditioning step 2/2:
+  Current y (detached): 0.00915346946567297
+  Current z (detached): 0.28035807609558105
+Final step 3/3:
+  Final y_hat: 0.009216087870299816
+  Final q_hat: 0.9387621879577637
+Preconditioning step 1/2:
+  Current y (detached): 0.009194373153150082
+  Current z (detached): 0.2897258400917053
+Preconditioning step 2/2:
+  Current y (detached): 0.00919338408857584
+  Current z (detached): 0.2897225022315979
+Final step 3/3:
+  Final y_hat: 0.009193362668156624
+  Final q_hat: 0.9386941194534302
+Preconditioning step 1/2:
+  Current y (detached): 0.00919077917933464
+  Current z (detached): 0.289638876914978
+Preconditioning step 2/2:
+  Current y (detached): 0.009190883487462997
+  Current z (detached): 0.28964000940322876
+Final step 3/3:
+  Final y_hat: 0.009190885350108147
+  Final q_hat: 0.9387338161468506
+Preconditioning step 1/2:
+  Current y (detached): 0.008825944736599922
+  Current z (detached): 0.2756942808628082
+Preconditioning step 2/2:
+  Current y (detached): 0.009081533178687096
+  Current z (detached): 0.28766584396362305
+Final step 3/3:
+  Final y_hat: 0.009086459875106812
+  Final q_hat: 0.9372789263725281
+Preconditioning step 1/2:
+  Current y (detached): 0.009096575900912285
+  Current z (detached): 0.2878088355064392
+Preconditioning step 2/2:
+  Current y (detached): 0.009096629917621613
+  Current z (detached): 0.2878093719482422
+Final step 3/3:
+  Final y_hat: 0.009096636436879635
+  Final q_hat: 0.9374791979789734
+Preconditioning step 1/2:
+  Current y (detached): 0.009111749939620495
+  Current z (detached): 0.2880324721336365
+Preconditioning step 2/2:
+  Current y (detached): 0.009111708030104637
+  Current z (detached): 0.28803253173828125
+Final step 3/3:
+  Final y_hat: 0.009111713618040085
+  Final q_hat: 0.9377808570861816
+Preconditioning step 1/2:
+  Current y (detached): 0.009029830805957317
+  Current z (detached): 0.28545325994491577
+Preconditioning step 2/2:
+  Current y (detached): 0.00899101234972477
+  Current z (detached): 0.28856346011161804
+Final step 3/3:
+  Final y_hat: 0.008993104100227356
+  Final q_hat: 0.9424164891242981
+Preconditioning step 1/2:
+  Current y (detached): 0.009015290066599846
+  Current z (detached): 0.289251446723938
+Preconditioning step 2/2:
+  Current y (detached): 0.009015200659632683
+  Current z (detached): 0.28925129771232605
+Final step 3/3:
+  Final y_hat: 0.009015202522277832
+  Final q_hat: 0.9425840377807617
+Preconditioning step 1/2:
+  Current y (detached): 0.009049111977219582
+  Current z (detached): 0.28964537382125854
+Preconditioning step 2/2:
+  Current y (detached): 0.009048938751220703
+  Current z (detached): 0.28964561223983765
+Final step 3/3:
+  Final y_hat: 0.009048938751220703
+  Final q_hat: 0.9427788853645325
+Preconditioning step 1/2:
+  Current y (detached): 0.008904622867703438
+  Current z (detached): 0.27591899037361145
+Preconditioning step 2/2:
+  Current y (detached): 0.009302794001996517
+  Current z (detached): 0.288439005613327
+Final step 3/3:
+  Final y_hat: 0.009255190379917622
+  Final q_hat: 0.9395024180412292
+Preconditioning step 1/2:
+  Current y (detached): 0.009296180680394173
+  Current z (detached): 0.2903519868850708
+Preconditioning step 2/2:
+  Current y (detached): 0.009296223521232605
+  Current z (detached): 0.29035288095474243
+Final step 3/3:
+  Final y_hat: 0.009296230971813202
+  Final q_hat: 0.9397676587104797
+Preconditioning step 1/2:
+  Current y (detached): 0.009331154637038708
+  Current z (detached): 0.29069623351097107
+Preconditioning step 2/2:
+  Current y (detached): 0.009331073611974716
+  Current z (detached): 0.2906958758831024
+Final step 3/3:
+  Final y_hat: 0.009331079199910164
+  Final q_hat: 0.9400127530097961
+Preconditioning step 1/2:
+  Current y (detached): 0.008620774373412132
+  Current z (detached): 0.2778718173503876
+Preconditioning step 2/2:
+  Current y (detached): 0.009281894192099571
+  Current z (detached): 0.29175302386283875
+Final step 3/3:
+  Final y_hat: 0.009281943552196026
+  Final q_hat: 0.9445276856422424
+Preconditioning step 1/2:
+  Current y (detached): 0.009308519773185253
+  Current z (detached): 0.2921808958053589
+Preconditioning step 2/2:
+  Current y (detached): 0.009308421984314919
+  Current z (detached): 0.292180597782135
+Final step 3/3:
+  Final y_hat: 0.009308435022830963
+  Final q_hat: 0.944543719291687
+Preconditioning step 1/2:
+  Current y (detached): 0.009337748400866985
+  Current z (detached): 0.29225635528564453
+Preconditioning step 2/2:
+  Current y (detached): 0.009337646886706352
+  Current z (detached): 0.29225605726242065
+Final step 3/3:
+  Final y_hat: 0.009337648749351501
+  Final q_hat: 0.9444890022277832
+Preconditioning step 1/2:
+  Current y (detached): 0.009219708852469921
+  Current z (detached): 0.283794641494751
+Preconditioning step 2/2:
+  Current y (detached): 0.009284544736146927
+  Current z (detached): 0.290986031293869
+Final step 3/3:
+  Final y_hat: 0.009295814670622349
+  Final q_hat: 0.9434739351272583
+Preconditioning step 1/2:
+  Current y (detached): 0.009316686540842056
+  Current z (detached): 0.29116904735565186
+Preconditioning step 2/2:
+  Current y (detached): 0.009316748008131981
+  Current z (detached): 0.29116857051849365
+Final step 3/3:
+  Final y_hat: 0.00931674987077713
+  Final q_hat: 0.9432989954948425
+Preconditioning step 1/2:
+  Current y (detached): 0.00932827964425087
+  Current z (detached): 0.2909596264362335
+Preconditioning step 2/2:
+  Current y (detached): 0.009328375570476055
+  Current z (detached): 0.29095935821533203
+Final step 3/3:
+  Final y_hat: 0.009328375570476055
+  Final q_hat: 0.9431122541427612
+Epoch [12/20] finished, Average Loss: 0.0144
+Preconditioning step 1/2:
+  Current y (detached): 0.009841036051511765
+  Current z (detached): 0.29521822929382324
+Preconditioning step 2/2:
+  Current y (detached): 0.00937732681632042
+  Current z (detached): 0.29106855392456055
+Final step 3/3:
+  Final y_hat: 0.009418899193406105
+  Final q_hat: 0.9438660144805908
+Preconditioning step 1/2:
+  Current y (detached): 0.009423937648534775
+  Current z (detached): 0.2917131781578064
+Preconditioning step 2/2:
+  Current y (detached): 0.00942430179566145
+  Current z (detached): 0.29171401262283325
+Final step 3/3:
+  Final y_hat: 0.009424312971532345
+  Final q_hat: 0.9436246156692505
+Preconditioning step 1/2:
+  Current y (detached): 0.009424875490367413
+  Current z (detached): 0.291376531124115
+Preconditioning step 2/2:
+  Current y (detached): 0.009425058029592037
+  Current z (detached): 0.29137665033340454
+Final step 3/3:
+  Final y_hat: 0.009425058029592037
+  Final q_hat: 0.9433480501174927
+Preconditioning step 1/2:
+  Current y (detached): 0.009562486782670021
+  Current z (detached): 0.2860918939113617
+Preconditioning step 2/2:
+  Current y (detached): 0.009391047060489655
+  Current z (detached): 0.2900518476963043
+Final step 3/3:
+  Final y_hat: 0.009391400963068008
+  Final q_hat: 0.9369468688964844
+Preconditioning step 1/2:
+  Current y (detached): 0.009385528042912483
+  Current z (detached): 0.2899813950061798
+Preconditioning step 2/2:
+  Current y (detached): 0.009385677054524422
+  Current z (detached): 0.28998130559921265
+Final step 3/3:
+  Final y_hat: 0.009385674260556698
+  Final q_hat: 0.9366127848625183
+Preconditioning step 1/2:
+  Current y (detached): 0.009382758289575577
+  Current z (detached): 0.290077269077301
+Preconditioning step 2/2:
+  Current y (detached): 0.009382849559187889
+  Current z (detached): 0.2900770902633667
+Final step 3/3:
+  Final y_hat: 0.009382846765220165
+  Final q_hat: 0.9364687204360962
+Preconditioning step 1/2:
+  Current y (detached): 0.009198833256959915
+  Current z (detached): 0.2952013313770294
+Preconditioning step 2/2:
+  Current y (detached): 0.009384822100400925
+  Current z (detached): 0.29082155227661133
+Final step 3/3:
+  Final y_hat: 0.009392141364514828
+  Final q_hat: 0.9375381469726562
+Preconditioning step 1/2:
+  Current y (detached): 0.00938384048640728
+  Current z (detached): 0.2912653088569641
+Preconditioning step 2/2:
+  Current y (detached): 0.009383602067828178
+  Current z (detached): 0.29126402735710144
+Final step 3/3:
+  Final y_hat: 0.009383611381053925
+  Final q_hat: 0.9376643896102905
+Preconditioning step 1/2:
+  Current y (detached): 0.009374592453241348
+  Current z (detached): 0.29159989953041077
+Preconditioning step 2/2:
+  Current y (detached): 0.009374483488500118
+  Current z (detached): 0.2915996313095093
+Final step 3/3:
+  Final y_hat: 0.009374482557177544
+  Final q_hat: 0.9378662705421448
+Preconditioning step 1/2:
+  Current y (detached): 0.008719610050320625
+  Current z (detached): 0.3199429214000702
+Preconditioning step 2/2:
+  Current y (detached): 0.009729309007525444
+  Current z (detached): 0.2912880778312683
+Final step 3/3:
+  Final y_hat: 0.009471658617258072
+  Final q_hat: 0.9383875727653503
+Preconditioning step 1/2:
+  Current y (detached): 0.009421500377357006
+  Current z (detached): 0.2920601963996887
+Preconditioning step 2/2:
+  Current y (detached): 0.009420985355973244
+  Current z (detached): 0.2920629382133484
+Final step 3/3:
+  Final y_hat: 0.009420990012586117
+  Final q_hat: 0.9386691451072693
+Preconditioning step 1/2:
+  Current y (detached): 0.009394938126206398
+  Current z (detached): 0.29229921102523804
+Preconditioning step 2/2:
+  Current y (detached): 0.009394947439432144
+  Current z (detached): 0.29229941964149475
+Final step 3/3:
+  Final y_hat: 0.009394952096045017
+  Final q_hat: 0.9388735294342041
+Preconditioning step 1/2:
+  Current y (detached): 0.00879996083676815
+  Current z (detached): 0.28868618607521057
+Preconditioning step 2/2:
+  Current y (detached): 0.009394887834787369
+  Current z (detached): 0.2928707003593445
+Final step 3/3:
+  Final y_hat: 0.00940915010869503
+  Final q_hat: 0.9393609762191772
+Preconditioning step 1/2:
+  Current y (detached): 0.009380489587783813
+  Current z (detached): 0.29307326674461365
+Preconditioning step 2/2:
+  Current y (detached): 0.00938053335994482
+  Current z (detached): 0.29307472705841064
+Final step 3/3:
+  Final y_hat: 0.009380530565977097
+  Final q_hat: 0.9395166039466858
+Preconditioning step 1/2:
+  Current y (detached): 0.009354524314403534
+  Current z (detached): 0.29313570261001587
+Preconditioning step 2/2:
+  Current y (detached): 0.00935458205640316
+  Current z (detached): 0.2931361794471741
+Final step 3/3:
+  Final y_hat: 0.009354581125080585
+  Final q_hat: 0.939655065536499
+Preconditioning step 1/2:
+  Current y (detached): 0.009235506877303123
+  Current z (detached): 0.28640931844711304
+Preconditioning step 2/2:
+  Current y (detached): 0.00941149890422821
+  Current z (detached): 0.29164043068885803
+Final step 3/3:
+  Final y_hat: 0.009328063577413559
+  Final q_hat: 0.9395869374275208
+Preconditioning step 1/2:
+  Current y (detached): 0.009301165118813515
+  Current z (detached): 0.2932230830192566
+Preconditioning step 2/2:
+  Current y (detached): 0.009301438927650452
+  Current z (detached): 0.2932240962982178
+Final step 3/3:
+  Final y_hat: 0.009301436133682728
+  Final q_hat: 0.9397276639938354
+Preconditioning step 1/2:
+  Current y (detached): 0.009276327677071095
+  Current z (detached): 0.2931789457798004
+Preconditioning step 2/2:
+  Current y (detached): 0.009276407770812511
+  Current z (detached): 0.2931790351867676
+Final step 3/3:
+  Final y_hat: 0.009276410564780235
+  Final q_hat: 0.9398956298828125
+Preconditioning step 1/2:
+  Current y (detached): 0.009111978113651276
+  Current z (detached): 0.28262364864349365
+Preconditioning step 2/2:
+  Current y (detached): 0.009213846176862717
+  Current z (detached): 0.2830680012702942
+Final step 3/3:
+  Final y_hat: 0.009200291708111763
+  Final q_hat: 0.919277548789978
+Preconditioning step 1/2:
+  Current y (detached): 0.009208327159285545
+  Current z (detached): 0.2834796607494354
+Preconditioning step 2/2:
+  Current y (detached): 0.009238219819962978
+  Current z (detached): 0.2836548686027527
+Final step 3/3:
+  Final y_hat: 0.009252341464161873
+  Final q_hat: 0.9217274188995361
+Preconditioning step 1/2:
+  Current y (detached): 0.009264105930924416
+  Current z (detached): 0.2844759523868561
+Preconditioning step 2/2:
+  Current y (detached): 0.009264872409403324
+  Current z (detached): 0.28449296951293945
+Final step 3/3:
+  Final y_hat: 0.009264830499887466
+  Final q_hat: 0.9233784079551697
+Preconditioning step 1/2:
+  Current y (detached): 0.00971384346485138
+  Current z (detached): 0.3332415521144867
+Preconditioning step 2/2:
+  Current y (detached): 0.009696681052446365
+  Current z (detached): 0.3294169306755066
+Final step 3/3:
+  Final y_hat: 0.009103359654545784
+  Final q_hat: 0.941276490688324
+Preconditioning step 1/2:
+  Current y (detached): 0.009053919464349747
+  Current z (detached): 0.2947251796722412
+Preconditioning step 2/2:
+  Current y (detached): 0.009055407717823982
+  Current z (detached): 0.29471996426582336
+Final step 3/3:
+  Final y_hat: 0.009055492468178272
+  Final q_hat: 0.9424843192100525
+Preconditioning step 1/2:
+  Current y (detached): 0.009069898165762424
+  Current z (detached): 0.2952576279640198
+Preconditioning step 2/2:
+  Current y (detached): 0.009070038795471191
+  Current z (detached): 0.29525959491729736
+Final step 3/3:
+  Final y_hat: 0.009070058353245258
+  Final q_hat: 0.9430102109909058
+Epoch [13/20] finished, Average Loss: 0.0149
+Preconditioning step 1/2:
+  Current y (detached): 0.008951480500400066
+  Current z (detached): 0.29337218403816223
+Preconditioning step 2/2:
+  Current y (detached): 0.008823218755424023
+  Current z (detached): 0.29386046528816223
+Final step 3/3:
+  Final y_hat: 0.008887006901204586
+  Final q_hat: 0.9440919756889343
+Preconditioning step 1/2:
+  Current y (detached): 0.008907981216907501
+  Current z (detached): 0.29530835151672363
+Preconditioning step 2/2:
+  Current y (detached): 0.008907771669328213
+  Current z (detached): 0.29530781507492065
+Final step 3/3:
+  Final y_hat: 0.008907806128263474
+  Final q_hat: 0.9440561532974243
+Preconditioning step 1/2:
+  Current y (detached): 0.008941198699176311
+  Current z (detached): 0.29524198174476624
+Preconditioning step 2/2:
+  Current y (detached): 0.008941072970628738
+  Current z (detached): 0.2952415943145752
+Final step 3/3:
+  Final y_hat: 0.008941077627241611
+  Final q_hat: 0.9439629316329956
+Preconditioning step 1/2:
+  Current y (detached): 0.00988033041357994
+  Current z (detached): 0.2870495319366455
+Preconditioning step 2/2:
+  Current y (detached): 0.008988998830318451
+  Current z (detached): 0.29438430070877075
+Final step 3/3:
+  Final y_hat: 0.00902862474322319
+  Final q_hat: 0.9436861276626587
+Preconditioning step 1/2:
+  Current y (detached): 0.009097263216972351
+  Current z (detached): 0.2946298122406006
+Preconditioning step 2/2:
+  Current y (detached): 0.009097466245293617
+  Current z (detached): 0.29462748765945435
+Final step 3/3:
+  Final y_hat: 0.009097473695874214
+  Final q_hat: 0.9434560537338257
+Preconditioning step 1/2:
+  Current y (detached): 0.00917726755142212
+  Current z (detached): 0.2942260503768921
+Preconditioning step 2/2:
+  Current y (detached): 0.009177128784358501
+  Current z (detached): 0.2942250669002533
+Final step 3/3:
+  Final y_hat: 0.009177127853035927
+  Final q_hat: 0.9432018995285034
+Preconditioning step 1/2:
+  Current y (detached): 0.009968845173716545
+  Current z (detached): 0.299803763628006
+Preconditioning step 2/2:
+  Current y (detached): 0.009558040648698807
+  Current z (detached): 0.29621636867523193
+Final step 3/3:
+  Final y_hat: 0.009553218260407448
+  Final q_hat: 0.9431651830673218
+Preconditioning step 1/2:
+  Current y (detached): 0.009605507366359234
+  Current z (detached): 0.29594841599464417
+Preconditioning step 2/2:
+  Current y (detached): 0.009605608880519867
+  Current z (detached): 0.2959481179714203
+Final step 3/3:
+  Final y_hat: 0.00960561539977789
+  Final q_hat: 0.9427106976509094
+Preconditioning step 1/2:
+  Current y (detached): 0.00964323990046978
+  Current z (detached): 0.2957085072994232
+Preconditioning step 2/2:
+  Current y (detached): 0.009643456898629665
+  Current z (detached): 0.29570794105529785
+Final step 3/3:
+  Final y_hat: 0.009643460623919964
+  Final q_hat: 0.9422545433044434
+Preconditioning step 1/2:
+  Current y (detached): 0.009960424154996872
+  Current z (detached): 0.3293123245239258
+Preconditioning step 2/2:
+  Current y (detached): 0.009187867864966393
+  Current z (detached): 0.2931804060935974
+Final step 3/3:
+  Final y_hat: 0.009542861953377724
+  Final q_hat: 0.9410274624824524
+Preconditioning step 1/2:
+  Current y (detached): 0.009592904709279537
+  Current z (detached): 0.2946051359176636
+Preconditioning step 2/2:
+  Current y (detached): 0.009593838825821877
+  Current z (detached): 0.2946140766143799
+Final step 3/3:
+  Final y_hat: 0.009593835100531578
+  Final q_hat: 0.9409793615341187
+Preconditioning step 1/2:
+  Current y (detached): 0.009606677107512951
+  Current z (detached): 0.29465675354003906
+Preconditioning step 2/2:
+  Current y (detached): 0.009606798179447651
+  Current z (detached): 0.2946573495864868
+Final step 3/3:
+  Final y_hat: 0.009606799110770226
+  Final q_hat: 0.9407192468643188
+Preconditioning step 1/2:
+  Current y (detached): 0.009299502708017826
+  Current z (detached): 0.2885977029800415
+Preconditioning step 2/2:
+  Current y (detached): 0.00958685390651226
+  Current z (detached): 0.294695645570755
+Final step 3/3:
+  Final y_hat: 0.009589198045432568
+  Final q_hat: 0.9399594068527222
+Preconditioning step 1/2:
+  Current y (detached): 0.00958564318716526
+  Current z (detached): 0.2949370741844177
+Preconditioning step 2/2:
+  Current y (detached): 0.009585333988070488
+  Current z (detached): 0.29493626952171326
+Final step 3/3:
+  Final y_hat: 0.009585327468812466
+  Final q_hat: 0.9399235248565674
+Preconditioning step 1/2:
+  Current y (detached): 0.009570546448230743
+  Current z (detached): 0.29536473751068115
+Preconditioning step 2/2:
+  Current y (detached): 0.009570291265845299
+  Current z (detached): 0.2953640818595886
+Final step 3/3:
+  Final y_hat: 0.009570280089974403
+  Final q_hat: 0.9399951696395874
+Preconditioning step 1/2:
+  Current y (detached): 0.010250993072986603
+  Current z (detached): 0.3323221802711487
+Preconditioning step 2/2:
+  Current y (detached): 0.009455465711653233
+  Current z (detached): 0.29592499136924744
+Final step 3/3:
+  Final y_hat: 0.009699895977973938
+  Final q_hat: 0.9413366913795471
+Preconditioning step 1/2:
+  Current y (detached): 0.00965807307511568
+  Current z (detached): 0.29750534892082214
+Preconditioning step 2/2:
+  Current y (detached): 0.009658144786953926
+  Current z (detached): 0.29750317335128784
+Final step 3/3:
+  Final y_hat: 0.009658120572566986
+  Final q_hat: 0.9414353370666504
+Preconditioning step 1/2:
+  Current y (detached): 0.009608179330825806
+  Current z (detached): 0.2978334128856659
+Preconditioning step 2/2:
+  Current y (detached): 0.009608092717826366
+  Current z (detached): 0.2978329658508301
+Final step 3/3:
+  Final y_hat: 0.009608093649148941
+  Final q_hat: 0.9415140748023987
+Preconditioning step 1/2:
+  Current y (detached): 0.009308859705924988
+  Current z (detached): 0.28856873512268066
+Preconditioning step 2/2:
+  Current y (detached): 0.009367636404931545
+  Current z (detached): 0.29687824845314026
+Final step 3/3:
+  Final y_hat: 0.009367416612803936
+  Final q_hat: 0.9406145811080933
+Preconditioning step 1/2:
+  Current y (detached): 0.009310347028076649
+  Current z (detached): 0.29710853099823
+Preconditioning step 2/2:
+  Current y (detached): 0.009310364723205566
+  Current z (detached): 0.29710909724235535
+Final step 3/3:
+  Final y_hat: 0.009310365654528141
+  Final q_hat: 0.9406442046165466
+Preconditioning step 1/2:
+  Current y (detached): 0.00925920158624649
+  Current z (detached): 0.29731303453445435
+Preconditioning step 2/2:
+  Current y (detached): 0.009259211830794811
+  Current z (detached): 0.29731351137161255
+Final step 3/3:
+  Final y_hat: 0.009259210899472237
+  Final q_hat: 0.9406616687774658
+Preconditioning step 1/2:
+  Current y (detached): 0.00918831117451191
+  Current z (detached): 0.29499027132987976
+Preconditioning step 2/2:
+  Current y (detached): 0.009104371070861816
+  Current z (detached): 0.29571211338043213
+Final step 3/3:
+  Final y_hat: 0.009124720469117165
+  Final q_hat: 0.9419620037078857
+Preconditioning step 1/2:
+  Current y (detached): 0.009091688320040703
+  Current z (detached): 0.29577529430389404
+Preconditioning step 2/2:
+  Current y (detached): 0.009091823361814022
+  Current z (detached): 0.2957748472690582
+Final step 3/3:
+  Final y_hat: 0.009091826155781746
+  Final q_hat: 0.9418603181838989
+Preconditioning step 1/2:
+  Current y (detached): 0.009078634902834892
+  Current z (detached): 0.29583144187927246
+Preconditioning step 2/2:
+  Current y (detached): 0.009078776463866234
+  Current z (detached): 0.2958311438560486
+Final step 3/3:
+  Final y_hat: 0.009078777395188808
+  Final q_hat: 0.9418016076087952
+Epoch [14/20] finished, Average Loss: 0.0147
+Preconditioning step 1/2:
+  Current y (detached): 0.008816229179501534
+  Current z (detached): 0.28491729497909546
+Preconditioning step 2/2:
+  Current y (detached): 0.009133510291576385
+  Current z (detached): 0.29260778427124023
+Final step 3/3:
+  Final y_hat: 0.009200260043144226
+  Final q_hat: 0.9393026828765869
+Preconditioning step 1/2:
+  Current y (detached): 0.009218580089509487
+  Current z (detached): 0.29756927490234375
+Preconditioning step 2/2:
+  Current y (detached): 0.009218661114573479
+  Current z (detached): 0.29756903648376465
+Final step 3/3:
+  Final y_hat: 0.00921865738928318
+  Final q_hat: 0.9393372535705566
+Preconditioning step 1/2:
+  Current y (detached): 0.009242861531674862
+  Current z (detached): 0.2978488802909851
+Preconditioning step 2/2:
+  Current y (detached): 0.009242839179933071
+  Current z (detached): 0.297848641872406
+Final step 3/3:
+  Final y_hat: 0.009242840111255646
+  Final q_hat: 0.9394290447235107
+Preconditioning step 1/2:
+  Current y (detached): 0.008795573376119137
+  Current z (detached): 0.29077357053756714
+Preconditioning step 2/2:
+  Current y (detached): 0.00930770579725504
+  Current z (detached): 0.29798322916030884
+Final step 3/3:
+  Final y_hat: 0.009316615760326385
+  Final q_hat: 0.9402934312820435
+Preconditioning step 1/2:
+  Current y (detached): 0.009339272044599056
+  Current z (detached): 0.2983664572238922
+Preconditioning step 2/2:
+  Current y (detached): 0.009339215233922005
+  Current z (detached): 0.2983665466308594
+Final step 3/3:
+  Final y_hat: 0.009339218959212303
+  Final q_hat: 0.9404158592224121
+Preconditioning step 1/2:
+  Current y (detached): 0.009353302419185638
+  Current z (detached): 0.2987113893032074
+Preconditioning step 2/2:
+  Current y (detached): 0.009353168308734894
+  Current z (detached): 0.2987111210823059
+Final step 3/3:
+  Final y_hat: 0.009353173896670341
+  Final q_hat: 0.9405418038368225
+Preconditioning step 1/2:
+  Current y (detached): 0.009611668065190315
+  Current z (detached): 0.3076837956905365
+Preconditioning step 2/2:
+  Current y (detached): 0.009354027919471264
+  Current z (detached): 0.29241234064102173
+Final step 3/3:
+  Final y_hat: 0.009472268633544445
+  Final q_hat: 0.9413255453109741
+Preconditioning step 1/2:
+  Current y (detached): 0.009472875855863094
+  Current z (detached): 0.30001479387283325
+Preconditioning step 2/2:
+  Current y (detached): 0.00947308074682951
+  Current z (detached): 0.30001506209373474
+Final step 3/3:
+  Final y_hat: 0.009473076090216637
+  Final q_hat: 0.9414162635803223
+Preconditioning step 1/2:
+  Current y (detached): 0.009470691904425621
+  Current z (detached): 0.3001469373703003
+Preconditioning step 2/2:
+  Current y (detached): 0.00947069562971592
+  Current z (detached): 0.3001468777656555
+Final step 3/3:
+  Final y_hat: 0.009470696561038494
+  Final q_hat: 0.9413676261901855
+Preconditioning step 1/2:
+  Current y (detached): 0.00919728260487318
+  Current z (detached): 0.29265761375427246
+Preconditioning step 2/2:
+  Current y (detached): 0.009382390417158604
+  Current z (detached): 0.29997530579566956
+Final step 3/3:
+  Final y_hat: 0.009383476339280605
+  Final q_hat: 0.9405274391174316
+Preconditioning step 1/2:
+  Current y (detached): 0.009373396635055542
+  Current z (detached): 0.3000071346759796
+Preconditioning step 2/2:
+  Current y (detached): 0.00937341246753931
+  Current z (detached): 0.3000074028968811
+Final step 3/3:
+  Final y_hat: 0.009373413398861885
+  Final q_hat: 0.9404425024986267
+Preconditioning step 1/2:
+  Current y (detached): 0.00936084520071745
+  Current z (detached): 0.300098717212677
+Preconditioning step 2/2:
+  Current y (detached): 0.00936083309352398
+  Current z (detached): 0.30009889602661133
+Final step 3/3:
+  Final y_hat: 0.009360834024846554
+  Final q_hat: 0.9403843879699707
+Preconditioning step 1/2:
+  Current y (detached): 0.00919974222779274
+  Current z (detached): 0.3023892641067505
+Preconditioning step 2/2:
+  Current y (detached): 0.009425301104784012
+  Current z (detached): 0.3008122444152832
+Final step 3/3:
+  Final y_hat: 0.009419389069080353
+  Final q_hat: 0.9415276050567627
+Preconditioning step 1/2:
+  Current y (detached): 0.00939750112593174
+  Current z (detached): 0.3009837865829468
+Preconditioning step 2/2:
+  Current y (detached): 0.009397493675351143
+  Current z (detached): 0.30098405480384827
+Final step 3/3:
+  Final y_hat: 0.009397498331964016
+  Final q_hat: 0.9414539337158203
+Preconditioning step 1/2:
+  Current y (detached): 0.009370873682200909
+  Current z (detached): 0.3010121285915375
+Preconditioning step 2/2:
+  Current y (detached): 0.009370923042297363
+  Current z (detached): 0.30101245641708374
+Final step 3/3:
+  Final y_hat: 0.009370925836265087
+  Final q_hat: 0.9413689374923706
+Preconditioning step 1/2:
+  Current y (detached): 0.009563075378537178
+  Current z (detached): 0.3164787292480469
+Preconditioning step 2/2:
+  Current y (detached): 0.008955225348472595
+  Current z (detached): 0.29696208238601685
+Final step 3/3:
+  Final y_hat: 0.00897656287997961
+  Final q_hat: 0.9417071342468262
+Preconditioning step 1/2:
+  Current y (detached): 0.008970145136117935
+  Current z (detached): 0.29846900701522827
+Preconditioning step 2/2:
+  Current y (detached): 0.008970104157924652
+  Current z (detached): 0.2984692454338074
+Final step 3/3:
+  Final y_hat: 0.008970102295279503
+  Final q_hat: 0.9416460990905762
+Preconditioning step 1/2:
+  Current y (detached): 0.008981220424175262
+  Current z (detached): 0.29857969284057617
+Preconditioning step 2/2:
+  Current y (detached): 0.008981249295175076
+  Current z (detached): 0.2985798120498657
+Final step 3/3:
+  Final y_hat: 0.0089812520891428
+  Final q_hat: 0.9416446685791016
+Preconditioning step 1/2:
+  Current y (detached): 0.009919138625264168
+  Current z (detached): 0.3202033042907715
+Preconditioning step 2/2:
+  Current y (detached): 0.009273147210478783
+  Current z (detached): 0.2990186810493469
+Final step 3/3:
+  Final y_hat: 0.009308614768087864
+  Final q_hat: 0.9410421848297119
+Preconditioning step 1/2:
+  Current y (detached): 0.00933753326535225
+  Current z (detached): 0.301167756319046
+Preconditioning step 2/2:
+  Current y (detached): 0.009337550029158592
+  Current z (detached): 0.30116918683052063
+Final step 3/3:
+  Final y_hat: 0.009337550029158592
+  Final q_hat: 0.940969705581665
+Preconditioning step 1/2:
+  Current y (detached): 0.009370798245072365
+  Current z (detached): 0.3012748956680298
+Preconditioning step 2/2:
+  Current y (detached): 0.009370802901685238
+  Current z (detached): 0.30127471685409546
+Final step 3/3:
+  Final y_hat: 0.009370801039040089
+  Final q_hat: 0.9408968091011047
+Preconditioning step 1/2:
+  Current y (detached): 0.010509776882827282
+  Current z (detached): 0.3340521454811096
+Preconditioning step 2/2:
+  Current y (detached): 0.009117056615650654
+  Current z (detached): 0.29823458194732666
+Final step 3/3:
+  Final y_hat: 0.009137328714132309
+  Final q_hat: 0.9422661662101746
+Preconditioning step 1/2:
+  Current y (detached): 0.00918508693575859
+  Current z (detached): 0.2995094656944275
+Preconditioning step 2/2:
+  Current y (detached): 0.009185266681015491
+  Current z (detached): 0.29951024055480957
+Final step 3/3:
+  Final y_hat: 0.009185295552015305
+  Final q_hat: 0.9422534704208374
+Preconditioning step 1/2:
+  Current y (detached): 0.00922949519008398
+  Current z (detached): 0.2996354103088379
+Preconditioning step 2/2:
+  Current y (detached): 0.009229501709342003
+  Current z (detached): 0.2996348440647125
+Final step 3/3:
+  Final y_hat: 0.00922950729727745
+  Final q_hat: 0.9422648549079895
+Epoch [15/20] finished, Average Loss: 0.0146
+Preconditioning step 1/2:
+  Current y (detached): 0.009542727842926979
+  Current z (detached): 0.30024465918540955
+Preconditioning step 2/2:
+  Current y (detached): 0.009447278454899788
+  Current z (detached): 0.301276296377182
+Final step 3/3:
+  Final y_hat: 0.00944654643535614
+  Final q_hat: 0.9397467970848083
+Preconditioning step 1/2:
+  Current y (detached): 0.00946527998894453
+  Current z (detached): 0.3014037609100342
+Preconditioning step 2/2:
+  Current y (detached): 0.009465291164815426
+  Current z (detached): 0.3014034628868103
+Final step 3/3:
+  Final y_hat: 0.009465291164815426
+  Final q_hat: 0.9396505355834961
+Preconditioning step 1/2:
+  Current y (detached): 0.009472416713833809
+  Current z (detached): 0.30152300000190735
+Preconditioning step 2/2:
+  Current y (detached): 0.00947243720293045
+  Current z (detached): 0.30152279138565063
+Final step 3/3:
+  Final y_hat: 0.009472436271607876
+  Final q_hat: 0.939586877822876
+Preconditioning step 1/2:
+  Current y (detached): 0.009983106516301632
+  Current z (detached): 0.31723785400390625
+Preconditioning step 2/2:
+  Current y (detached): 0.009473050013184547
+  Current z (detached): 0.301744282245636
+Final step 3/3:
+  Final y_hat: 0.00952010415494442
+  Final q_hat: 0.9398738741874695
+Preconditioning step 1/2:
+  Current y (detached): 0.009513283148407936
+  Current z (detached): 0.3021621108055115
+Preconditioning step 2/2:
+  Current y (detached): 0.009513243101537228
+  Current z (detached): 0.3021619915962219
+Final step 3/3:
+  Final y_hat: 0.009513246826827526
+  Final q_hat: 0.9398578405380249
+Preconditioning step 1/2:
+  Current y (detached): 0.00950576551258564
+  Current z (detached): 0.30222564935684204
+Preconditioning step 2/2:
+  Current y (detached): 0.009505786001682281
+  Current z (detached): 0.30222558975219727
+Final step 3/3:
+  Final y_hat: 0.009505786001682281
+  Final q_hat: 0.9398550987243652
+Preconditioning step 1/2:
+  Current y (detached): 0.010381365194916725
+  Current z (detached): 0.3391360938549042
+Preconditioning step 2/2:
+  Current y (detached): 0.010389200411736965
+  Current z (detached): 0.334270715713501
+Final step 3/3:
+  Final y_hat: 0.009494787082076073
+  Final q_hat: 0.929161787033081
+Preconditioning step 1/2:
+  Current y (detached): 0.009398147463798523
+  Current z (detached): 0.30163872241973877
+Preconditioning step 2/2:
+  Current y (detached): 0.009399043396115303
+  Current z (detached): 0.30162283778190613
+Final step 3/3:
+  Final y_hat: 0.009399115107953548
+  Final q_hat: 0.939922571182251
+Preconditioning step 1/2:
+  Current y (detached): 0.00932975672185421
+  Current z (detached): 0.3014678359031677
+Preconditioning step 2/2:
+  Current y (detached): 0.00932988990098238
+  Current z (detached): 0.3014681041240692
+Final step 3/3:
+  Final y_hat: 0.009329895488917828
+  Final q_hat: 0.9398715496063232
+Preconditioning step 1/2:
+  Current y (detached): 0.009004184976220131
+  Current z (detached): 0.29979264736175537
+Preconditioning step 2/2:
+  Current y (detached): 0.00909966416656971
+  Current z (detached): 0.3000733256340027
+Final step 3/3:
+  Final y_hat: 0.009098269045352936
+  Final q_hat: 0.942051887512207
+Preconditioning step 1/2:
+  Current y (detached): 0.009054390713572502
+  Current z (detached): 0.30008503794670105
+Preconditioning step 2/2:
+  Current y (detached): 0.009054361842572689
+  Current z (detached): 0.3000854253768921
+Final step 3/3:
+  Final y_hat: 0.00905435997992754
+  Final q_hat: 0.9420890808105469
+Preconditioning step 1/2:
+  Current y (detached): 0.009021530859172344
+  Current z (detached): 0.3000984191894531
+Preconditioning step 2/2:
+  Current y (detached): 0.009021518751978874
+  Current z (detached): 0.3000987768173218
+Final step 3/3:
+  Final y_hat: 0.009021516889333725
+  Final q_hat: 0.9421259164810181
+Preconditioning step 1/2:
+  Current y (detached): 0.010070957243442535
+  Current z (detached): 0.305101215839386
+Preconditioning step 2/2:
+  Current y (detached): 0.00899667851626873
+  Current z (detached): 0.30046167969703674
+Final step 3/3:
+  Final y_hat: 0.009002159349620342
+  Final q_hat: 0.9427206516265869
+Preconditioning step 1/2:
+  Current y (detached): 0.008994603529572487
+  Current z (detached): 0.3005309998989105
+Preconditioning step 2/2:
+  Current y (detached): 0.0089945700019598
+  Current z (detached): 0.3005308508872986
+Final step 3/3:
+  Final y_hat: 0.0089945700019598
+  Final q_hat: 0.9426952600479126
+Preconditioning step 1/2:
+  Current y (detached): 0.009001241065561771
+  Current z (detached): 0.3004419803619385
+Preconditioning step 2/2:
+  Current y (detached): 0.009001253172755241
+  Current z (detached): 0.30044156312942505
+Final step 3/3:
+  Final y_hat: 0.009001249447464943
+  Final q_hat: 0.9426280856132507
+Preconditioning step 1/2:
+  Current y (detached): 0.008956938050687313
+  Current z (detached): 0.29842209815979004
+Preconditioning step 2/2:
+  Current y (detached): 0.009144512936472893
+  Current z (detached): 0.3010885715484619
+Final step 3/3:
+  Final y_hat: 0.009155847132205963
+  Final q_hat: 0.9384834170341492
+Preconditioning step 1/2:
+  Current y (detached): 0.009167751297354698
+  Current z (detached): 0.3016200065612793
+Preconditioning step 2/2:
+  Current y (detached): 0.009167810901999474
+  Current z (detached): 0.30161982774734497
+Final step 3/3:
+  Final y_hat: 0.009167816489934921
+  Final q_hat: 0.9383175373077393
+Preconditioning step 1/2:
+  Current y (detached): 0.009186910465359688
+  Current z (detached): 0.30175668001174927
+Preconditioning step 2/2:
+  Current y (detached): 0.009186876937747002
+  Current z (detached): 0.3017565608024597
+Final step 3/3:
+  Final y_hat: 0.00918688252568245
+  Final q_hat: 0.938282310962677
+Preconditioning step 1/2:
+  Current y (detached): 0.009138654917478561
+  Current z (detached): 0.2968582510948181
+Preconditioning step 2/2:
+  Current y (detached): 0.009101076982915401
+  Current z (detached): 0.29953256249427795
+Final step 3/3:
+  Final y_hat: 0.009097637608647346
+  Final q_hat: 0.9419819712638855
+Preconditioning step 1/2:
+  Current y (detached): 0.009121793322265148
+  Current z (detached): 0.2997055649757385
+Preconditioning step 2/2:
+  Current y (detached): 0.009121793322265148
+  Current z (detached): 0.2997051775455475
+Final step 3/3:
+  Final y_hat: 0.009121795184910297
+  Final q_hat: 0.9421038031578064
+Preconditioning step 1/2:
+  Current y (detached): 0.009141234681010246
+  Current z (detached): 0.2999821603298187
+Preconditioning step 2/2:
+  Current y (detached): 0.009141255170106888
+  Current z (detached): 0.29998233914375305
+Final step 3/3:
+  Final y_hat: 0.009141257964074612
+  Final q_hat: 0.9422836303710938
+Preconditioning step 1/2:
+  Current y (detached): 0.00891239196062088
+  Current z (detached): 0.29056113958358765
+Preconditioning step 2/2:
+  Current y (detached): 0.009268060326576233
+  Current z (detached): 0.30224937200546265
+Final step 3/3:
+  Final y_hat: 0.009267617017030716
+  Final q_hat: 0.9385389089584351
+Preconditioning step 1/2:
+  Current y (detached): 0.009271315298974514
+  Current z (detached): 0.30258798599243164
+Preconditioning step 2/2:
+  Current y (detached): 0.0092713488265872
+  Current z (detached): 0.30258744955062866
+Final step 3/3:
+  Final y_hat: 0.009271346032619476
+  Final q_hat: 0.938663125038147
+Preconditioning step 1/2:
+  Current y (detached): 0.009261403232812881
+  Current z (detached): 0.30285876989364624
+Preconditioning step 2/2:
+  Current y (detached): 0.009261485189199448
+  Current z (detached): 0.3028581142425537
+Final step 3/3:
+  Final y_hat: 0.009261483326554298
+  Final q_hat: 0.9387937784194946
+Epoch [16/20] finished, Average Loss: 0.0144
+Preconditioning step 1/2:
+  Current y (detached): 0.009349921718239784
+  Current z (detached): 0.2952142655849457
+Preconditioning step 2/2:
+  Current y (detached): 0.009077551774680614
+  Current z (detached): 0.30075204372406006
+Final step 3/3:
+  Final y_hat: 0.00907910242676735
+  Final q_hat: 0.9427427053451538
+Preconditioning step 1/2:
+  Current y (detached): 0.009063414297997952
+  Current z (detached): 0.30095404386520386
+Preconditioning step 2/2:
+  Current y (detached): 0.009063498117029667
+  Current z (detached): 0.30095410346984863
+Final step 3/3:
+  Final y_hat: 0.009063499048352242
+  Final q_hat: 0.9428896903991699
+Preconditioning step 1/2:
+  Current y (detached): 0.009055120870471
+  Current z (detached): 0.301116019487381
+Preconditioning step 2/2:
+  Current y (detached): 0.009055200032889843
+  Current z (detached): 0.301116406917572
+Final step 3/3:
+  Final y_hat: 0.009055200032889843
+  Final q_hat: 0.9430140256881714
+Preconditioning step 1/2:
+  Current y (detached): 0.009115819819271564
+  Current z (detached): 0.30126047134399414
+Preconditioning step 2/2:
+  Current y (detached): 0.009164669550955296
+  Current z (detached): 0.3036686182022095
+Final step 3/3:
+  Final y_hat: 0.0091636274009943
+  Final q_hat: 0.939055323600769
+Preconditioning step 1/2:
+  Current y (detached): 0.009171884506940842
+  Current z (detached): 0.3038104772567749
+Preconditioning step 2/2:
+  Current y (detached): 0.009171990677714348
+  Current z (detached): 0.30381056666374207
+Final step 3/3:
+  Final y_hat: 0.009171988815069199
+  Final q_hat: 0.9390867352485657
+Preconditioning step 1/2:
+  Current y (detached): 0.009186189621686935
+  Current z (detached): 0.30399709939956665
+Preconditioning step 2/2:
+  Current y (detached): 0.009186245501041412
+  Current z (detached): 0.30399730801582336
+Final step 3/3:
+  Final y_hat: 0.009186245501041412
+  Final q_hat: 0.939152717590332
+Preconditioning step 1/2:
+  Current y (detached): 0.009119958616793156
+  Current z (detached): 0.2958160638809204
+Preconditioning step 2/2:
+  Current y (detached): 0.009115289896726608
+  Current z (detached): 0.30217573046684265
+Final step 3/3:
+  Final y_hat: 0.009107036516070366
+  Final q_hat: 0.9436051249504089
+Preconditioning step 1/2:
+  Current y (detached): 0.009122297167778015
+  Current z (detached): 0.3023272752761841
+Preconditioning step 2/2:
+  Current y (detached): 0.009122304618358612
+  Current z (detached): 0.30232763290405273
+Final step 3/3:
+  Final y_hat: 0.009122304618358612
+  Final q_hat: 0.9436497092247009
+Preconditioning step 1/2:
+  Current y (detached): 0.0091366246342659
+  Current z (detached): 0.3024577498435974
+Preconditioning step 2/2:
+  Current y (detached): 0.009136620908975601
+  Current z (detached): 0.30245840549468994
+Final step 3/3:
+  Final y_hat: 0.009136619046330452
+  Final q_hat: 0.943656325340271
+Preconditioning step 1/2:
+  Current y (detached): 0.009398522786796093
+  Current z (detached): 0.2956114709377289
+Preconditioning step 2/2:
+  Current y (detached): 0.009155409410595894
+  Current z (detached): 0.30240869522094727
+Final step 3/3:
+  Final y_hat: 0.009169721975922585
+  Final q_hat: 0.9437068700790405
+Preconditioning step 1/2:
+  Current y (detached): 0.009191995486617088
+  Current z (detached): 0.30268391966819763
+Preconditioning step 2/2:
+  Current y (detached): 0.009192010387778282
+  Current z (detached): 0.30268412828445435
+Final step 3/3:
+  Final y_hat: 0.009192009456455708
+  Final q_hat: 0.9436442852020264
+Preconditioning step 1/2:
+  Current y (detached): 0.009219677187502384
+  Current z (detached): 0.30263805389404297
+Preconditioning step 2/2:
+  Current y (detached): 0.009219693019986153
+  Current z (detached): 0.30263814330101013
+Final step 3/3:
+  Final y_hat: 0.009219692088663578
+  Final q_hat: 0.9435598850250244
+Preconditioning step 1/2:
+  Current y (detached): 0.008267996832728386
+  Current z (detached): 0.2907469570636749
+Preconditioning step 2/2:
+  Current y (detached): 0.009257613681256771
+  Current z (detached): 0.302601158618927
+Final step 3/3:
+  Final y_hat: 0.009257258847355843
+  Final q_hat: 0.943572461605072
+Preconditioning step 1/2:
+  Current y (detached): 0.009283768013119698
+  Current z (detached): 0.30257147550582886
+Preconditioning step 2/2:
+  Current y (detached): 0.009283853694796562
+  Current z (detached): 0.30257153511047363
+Final step 3/3:
+  Final y_hat: 0.009283855557441711
+  Final q_hat: 0.9434795379638672
+Preconditioning step 1/2:
+  Current y (detached): 0.00930465292185545
+  Current z (detached): 0.30248135328292847
+Preconditioning step 2/2:
+  Current y (detached): 0.00930471159517765
+  Current z (detached): 0.3024810552597046
+Final step 3/3:
+  Final y_hat: 0.009304709732532501
+  Final q_hat: 0.9433989524841309
+Preconditioning step 1/2:
+  Current y (detached): 0.010427712462842464
+  Current z (detached): 0.33752763271331787
+Preconditioning step 2/2:
+  Current y (detached): 0.009949798695743084
+  Current z (detached): 0.33239641785621643
+Final step 3/3:
+  Final y_hat: 0.009347709827125072
+  Final q_hat: 0.9435973167419434
+Preconditioning step 1/2:
+  Current y (detached): 0.00931012723594904
+  Current z (detached): 0.30271780490875244
+Preconditioning step 2/2:
+  Current y (detached): 0.009309513494372368
+  Current z (detached): 0.3027067482471466
+Final step 3/3:
+  Final y_hat: 0.009309508837759495
+  Final q_hat: 0.9435324668884277
+Preconditioning step 1/2:
+  Current y (detached): 0.009302309714257717
+  Current z (detached): 0.30267417430877686
+Preconditioning step 2/2:
+  Current y (detached): 0.009302375838160515
+  Current z (detached): 0.302673876285553
+Final step 3/3:
+  Final y_hat: 0.00930237676948309
+  Final q_hat: 0.9434798955917358
+Preconditioning step 1/2:
+  Current y (detached): 0.009531402960419655
+  Current z (detached): 0.30225077271461487
+Preconditioning step 2/2:
+  Current y (detached): 0.009445622563362122
+  Current z (detached): 0.30401521921157837
+Final step 3/3:
+  Final y_hat: 0.00942179374396801
+  Final q_hat: 0.9381215572357178
+Preconditioning step 1/2:
+  Current y (detached): 0.00940077193081379
+  Current z (detached): 0.30525797605514526
+Preconditioning step 2/2:
+  Current y (detached): 0.009400871582329273
+  Current z (detached): 0.30525800585746765
+Final step 3/3:
+  Final y_hat: 0.009400873444974422
+  Final q_hat: 0.9380450248718262
+Preconditioning step 1/2:
+  Current y (detached): 0.009380960837006569
+  Current z (detached): 0.3053968548774719
+Preconditioning step 2/2:
+  Current y (detached): 0.009381022304296494
+  Current z (detached): 0.30539682507514954
+Final step 3/3:
+  Final y_hat: 0.009381026029586792
+  Final q_hat: 0.938064455986023
+Preconditioning step 1/2:
+  Current y (detached): 0.009588073007762432
+  Current z (detached): 0.3015916645526886
+Preconditioning step 2/2:
+  Current y (detached): 0.009339708834886551
+  Current z (detached): 0.3048431873321533
+Final step 3/3:
+  Final y_hat: 0.009342766366899014
+  Final q_hat: 0.9377999305725098
+Preconditioning step 1/2:
+  Current y (detached): 0.009323375299572945
+  Current z (detached): 0.30509716272354126
+Preconditioning step 2/2:
+  Current y (detached): 0.009323377162218094
+  Current z (detached): 0.305097758769989
+Final step 3/3:
+  Final y_hat: 0.009323375299572945
+  Final q_hat: 0.9379801750183105
+Preconditioning step 1/2:
+  Current y (detached): 0.009306740015745163
+  Current z (detached): 0.30532556772232056
+Preconditioning step 2/2:
+  Current y (detached): 0.009306663647294044
+  Current z (detached): 0.30532586574554443
+Final step 3/3:
+  Final y_hat: 0.009306663647294044
+  Final q_hat: 0.9382207989692688
+Epoch [17/20] finished, Average Loss: 0.0142
+Preconditioning step 1/2:
+  Current y (detached): 0.008701954036951065
+  Current z (detached): 0.29820048809051514
+Preconditioning step 2/2:
+  Current y (detached): 0.009095028974115849
+  Current z (detached): 0.3023717403411865
+Final step 3/3:
+  Final y_hat: 0.009107330814003944
+  Final q_hat: 0.9429938793182373
+Preconditioning step 1/2:
+  Current y (detached): 0.009089136496186256
+  Current z (detached): 0.3027886152267456
+Preconditioning step 2/2:
+  Current y (detached): 0.009089197032153606
+  Current z (detached): 0.3027896285057068
+Final step 3/3:
+  Final y_hat: 0.00908919982612133
+  Final q_hat: 0.9430930614471436
+Preconditioning step 1/2:
+  Current y (detached): 0.009079188108444214
+  Current z (detached): 0.30295315384864807
+Preconditioning step 2/2:
+  Current y (detached): 0.009079230949282646
+  Current z (detached): 0.302953839302063
+Final step 3/3:
+  Final y_hat: 0.00907923188060522
+  Final q_hat: 0.9431685209274292
+Preconditioning step 1/2:
+  Current y (detached): 0.009379692375659943
+  Current z (detached): 0.30115067958831787
+Preconditioning step 2/2:
+  Current y (detached): 0.009376264177262783
+  Current z (detached): 0.3067837953567505
+Final step 3/3:
+  Final y_hat: 0.00937500037252903
+  Final q_hat: 0.9393889307975769
+Preconditioning step 1/2:
+  Current y (detached): 0.009386938065290451
+  Current z (detached): 0.30683010816574097
+Preconditioning step 2/2:
+  Current y (detached): 0.009386951103806496
+  Current z (detached): 0.30683037638664246
+Final step 3/3:
+  Final y_hat: 0.009386952966451645
+  Final q_hat: 0.9395084977149963
+Preconditioning step 1/2:
+  Current y (detached): 0.009396842680871487
+  Current z (detached): 0.30681300163269043
+Preconditioning step 2/2:
+  Current y (detached): 0.009396852925419807
+  Current z (detached): 0.3068132996559143
+Final step 3/3:
+  Final y_hat: 0.009396852925419807
+  Final q_hat: 0.939612865447998
+Preconditioning step 1/2:
+  Current y (detached): 0.009906510822474957
+  Current z (detached): 0.3340761065483093
+Preconditioning step 2/2:
+  Current y (detached): 0.009114730171859264
+  Current z (detached): 0.3038738965988159
+Final step 3/3:
+  Final y_hat: 0.009084314107894897
+  Final q_hat: 0.9438962340354919
+Preconditioning step 1/2:
+  Current y (detached): 0.009099360555410385
+  Current z (detached): 0.303768515586853
+Preconditioning step 2/2:
+  Current y (detached): 0.009099405258893967
+  Current z (detached): 0.3037670850753784
+Final step 3/3:
+  Final y_hat: 0.009099414572119713
+  Final q_hat: 0.9438148140907288
+Preconditioning step 1/2:
+  Current y (detached): 0.009119508787989616
+  Current z (detached): 0.3036222457885742
+Preconditioning step 2/2:
+  Current y (detached): 0.009119488298892975
+  Current z (detached): 0.30362141132354736
+Final step 3/3:
+  Final y_hat: 0.009119491092860699
+  Final q_hat: 0.943696916103363
+Preconditioning step 1/2:
+  Current y (detached): 0.009455832652747631
+  Current z (detached): 0.30449873208999634
+Preconditioning step 2/2:
+  Current y (detached): 0.00936205592006445
+  Current z (detached): 0.30572009086608887
+Final step 3/3:
+  Final y_hat: 0.009360061958432198
+  Final q_hat: 0.9390199184417725
+Preconditioning step 1/2:
+  Current y (detached): 0.009378325194120407
+  Current z (detached): 0.3056950867176056
+Preconditioning step 2/2:
+  Current y (detached): 0.009378327988088131
+  Current z (detached): 0.3056950867176056
+Final step 3/3:
+  Final y_hat: 0.00937832985073328
+  Final q_hat: 0.9389673471450806
+Preconditioning step 1/2:
+  Current y (detached): 0.009392640553414822
+  Current z (detached): 0.305717408657074
+Preconditioning step 2/2:
+  Current y (detached): 0.009392627514898777
+  Current z (detached): 0.305717408657074
+Final step 3/3:
+  Final y_hat: 0.009392626583576202
+  Final q_hat: 0.9389661550521851
+Preconditioning step 1/2:
+  Current y (detached): 0.008745022118091583
+  Current z (detached): 0.29936397075653076
+Preconditioning step 2/2:
+  Current y (detached): 0.009234567172825336
+  Current z (detached): 0.30347657203674316
+Final step 3/3:
+  Final y_hat: 0.009229995310306549
+  Final q_hat: 0.943304181098938
+Preconditioning step 1/2:
+  Current y (detached): 0.009235773235559464
+  Current z (detached): 0.30365145206451416
+Preconditioning step 2/2:
+  Current y (detached): 0.009235704317688942
+  Current z (detached): 0.3036511242389679
+Final step 3/3:
+  Final y_hat: 0.009235704317688942
+  Final q_hat: 0.9432840943336487
+Preconditioning step 1/2:
+  Current y (detached): 0.009237542748451233
+  Current z (detached): 0.30374670028686523
+Preconditioning step 2/2:
+  Current y (detached): 0.009237473830580711
+  Current z (detached): 0.3037468194961548
+Final step 3/3:
+  Final y_hat: 0.009237474761903286
+  Final q_hat: 0.9432875514030457
+Preconditioning step 1/2:
+  Current y (detached): 0.009332269430160522
+  Current z (detached): 0.2983221411705017
+Preconditioning step 2/2:
+  Current y (detached): 0.00920175015926361
+  Current z (detached): 0.30308982729911804
+Final step 3/3:
+  Final y_hat: 0.00920284353196621
+  Final q_hat: 0.9427436590194702
+Preconditioning step 1/2:
+  Current y (detached): 0.009205320850014687
+  Current z (detached): 0.3032767176628113
+Preconditioning step 2/2:
+  Current y (detached): 0.00920519232749939
+  Current z (detached): 0.30327728390693665
+Final step 3/3:
+  Final y_hat: 0.00920519232749939
+  Final q_hat: 0.9428167343139648
+Preconditioning step 1/2:
+  Current y (detached): 0.009212648496031761
+  Current z (detached): 0.3034248352050781
+Preconditioning step 2/2:
+  Current y (detached): 0.009212542325258255
+  Current z (detached): 0.3034253716468811
+Final step 3/3:
+  Final y_hat: 0.009212542325258255
+  Final q_hat: 0.9429284334182739
+Preconditioning step 1/2:
+  Current y (detached): 0.009160827845335007
+  Current z (detached): 0.30186474323272705
+Preconditioning step 2/2:
+  Current y (detached): 0.009428495541214943
+  Current z (detached): 0.30632996559143066
+Final step 3/3:
+  Final y_hat: 0.009417036548256874
+  Final q_hat: 0.9389578104019165
+Preconditioning step 1/2:
+  Current y (detached): 0.009418999776244164
+  Current z (detached): 0.30662381649017334
+Preconditioning step 2/2:
+  Current y (detached): 0.009419071488082409
+  Current z (detached): 0.30662351846694946
+Final step 3/3:
+  Final y_hat: 0.009419073350727558
+  Final q_hat: 0.9390325546264648
+Preconditioning step 1/2:
+  Current y (detached): 0.009414300322532654
+  Current z (detached): 0.30673420429229736
+Preconditioning step 2/2:
+  Current y (detached): 0.009414360858500004
+  Current z (detached): 0.3067340850830078
+Final step 3/3:
+  Final y_hat: 0.009414361789822578
+  Final q_hat: 0.939134418964386
+Preconditioning step 1/2:
+  Current y (detached): 0.01029997505247593
+  Current z (detached): 0.3303135633468628
+Preconditioning step 2/2:
+  Current y (detached): 0.009223761036992073
+  Current z (detached): 0.30382511019706726
+Final step 3/3:
+  Final y_hat: 0.009231993928551674
+  Final q_hat: 0.9436507821083069
+Preconditioning step 1/2:
+  Current y (detached): 0.009224286302924156
+  Current z (detached): 0.3042909801006317
+Preconditioning step 2/2:
+  Current y (detached): 0.009224364534020424
+  Current z (detached): 0.3042912483215332
+Final step 3/3:
+  Final y_hat: 0.009224366396665573
+  Final q_hat: 0.943716287612915
+Preconditioning step 1/2:
+  Current y (detached): 0.009221257641911507
+  Current z (detached): 0.3042568564414978
+Preconditioning step 2/2:
+  Current y (detached): 0.009221341460943222
+  Current z (detached): 0.30425724387168884
+Final step 3/3:
+  Final y_hat: 0.009221340529620647
+  Final q_hat: 0.9437319040298462
+Epoch [18/20] finished, Average Loss: 0.0142
+Preconditioning step 1/2:
+  Current y (detached): 0.009133795276284218
+  Current z (detached): 0.30271756649017334
+Preconditioning step 2/2:
+  Current y (detached): 0.00914900004863739
+  Current z (detached): 0.30394741892814636
+Final step 3/3:
+  Final y_hat: 0.009151683188974857
+  Final q_hat: 0.943596601486206
+Preconditioning step 1/2:
+  Current y (detached): 0.009156915359199047
+  Current z (detached): 0.3038860559463501
+Preconditioning step 2/2:
+  Current y (detached): 0.009157022461295128
+  Current z (detached): 0.3038859963417053
+Final step 3/3:
+  Final y_hat: 0.009157024323940277
+  Final q_hat: 0.9435398578643799
+Preconditioning step 1/2:
+  Current y (detached): 0.009164610877633095
+  Current z (detached): 0.3037857413291931
+Preconditioning step 2/2:
+  Current y (detached): 0.009164742194116116
+  Current z (detached): 0.3037854731082916
+Final step 3/3:
+  Final y_hat: 0.00916474312543869
+  Final q_hat: 0.9434633255004883
+Preconditioning step 1/2:
+  Current y (detached): 0.009302204474806786
+  Current z (detached): 0.3032088279724121
+Preconditioning step 2/2:
+  Current y (detached): 0.009448054246604443
+  Current z (detached): 0.30553126335144043
+Final step 3/3:
+  Final y_hat: 0.009445829316973686
+  Final q_hat: 0.9389643669128418
+Preconditioning step 1/2:
+  Current y (detached): 0.009452472440898418
+  Current z (detached): 0.30710625648498535
+Preconditioning step 2/2:
+  Current y (detached): 0.00945255532860756
+  Current z (detached): 0.3071058988571167
+Final step 3/3:
+  Final y_hat: 0.00945255532860756
+  Final q_hat: 0.938844621181488
+Preconditioning step 1/2:
+  Current y (detached): 0.009460228495299816
+  Current z (detached): 0.3071947395801544
+Preconditioning step 2/2:
+  Current y (detached): 0.009460268542170525
+  Current z (detached): 0.3071943521499634
+Final step 3/3:
+  Final y_hat: 0.009460268542170525
+  Final q_hat: 0.9388003945350647
+Preconditioning step 1/2:
+  Current y (detached): 0.010166360065340996
+  Current z (detached): 0.30795127153396606
+Preconditioning step 2/2:
+  Current y (detached): 0.009167615324258804
+  Current z (detached): 0.3018950819969177
+Final step 3/3:
+  Final y_hat: 0.009261103346943855
+  Final q_hat: 0.9436155557632446
+Preconditioning step 1/2:
+  Current y (detached): 0.009260080754756927
+  Current z (detached): 0.30452781915664673
+Preconditioning step 2/2:
+  Current y (detached): 0.009260149672627449
+  Current z (detached): 0.3045271933078766
+Final step 3/3:
+  Final y_hat: 0.009260150603950024
+  Final q_hat: 0.9435620307922363
+Preconditioning step 1/2:
+  Current y (detached): 0.009258301928639412
+  Current z (detached): 0.3046216070652008
+Preconditioning step 2/2:
+  Current y (detached): 0.009258339181542397
+  Current z (detached): 0.30462151765823364
+Final step 3/3:
+  Final y_hat: 0.009258337318897247
+  Final q_hat: 0.943518877029419
+Preconditioning step 1/2:
+  Current y (detached): 0.00843442790210247
+  Current z (detached): 0.31409400701522827
+Preconditioning step 2/2:
+  Current y (detached): 0.009168869815766811
+  Current z (detached): 0.30260348320007324
+Final step 3/3:
+  Final y_hat: 0.009249657392501831
+  Final q_hat: 0.9431425929069519
+Preconditioning step 1/2:
+  Current y (detached): 0.009250950068235397
+  Current z (detached): 0.30422675609588623
+Preconditioning step 2/2:
+  Current y (detached): 0.009251004084944725
+  Current z (detached): 0.3042272925376892
+Final step 3/3:
+  Final y_hat: 0.009251004084944725
+  Final q_hat: 0.9431084394454956
+Preconditioning step 1/2:
+  Current y (detached): 0.009257379919290543
+  Current z (detached): 0.3043537139892578
+Preconditioning step 2/2:
+  Current y (detached): 0.009257372468709946
+  Current z (detached): 0.3043544292449951
+Final step 3/3:
+  Final y_hat: 0.009257369674742222
+  Final q_hat: 0.9430933594703674
+Preconditioning step 1/2:
+  Current y (detached): 0.010898123495280743
+  Current z (detached): 0.3366679847240448
+Preconditioning step 2/2:
+  Current y (detached): 0.00934309046715498
+  Current z (detached): 0.3055829107761383
+Final step 3/3:
+  Final y_hat: 0.00931367464363575
+  Final q_hat: 0.9438061714172363
+Preconditioning step 1/2:
+  Current y (detached): 0.00932733528316021
+  Current z (detached): 0.3056933283805847
+Preconditioning step 2/2:
+  Current y (detached): 0.009327307343482971
+  Current z (detached): 0.3056938350200653
+Final step 3/3:
+  Final y_hat: 0.009327306412160397
+  Final q_hat: 0.9437575340270996
+Preconditioning step 1/2:
+  Current y (detached): 0.009347133338451385
+  Current z (detached): 0.30567264556884766
+Preconditioning step 2/2:
+  Current y (detached): 0.009347150102257729
+  Current z (detached): 0.3056729733943939
+Final step 3/3:
+  Final y_hat: 0.009347149170935154
+  Final q_hat: 0.9436808824539185
+Preconditioning step 1/2:
+  Current y (detached): 0.009334120899438858
+  Current z (detached): 0.30232006311416626
+Preconditioning step 2/2:
+  Current y (detached): 0.009281350299715996
+  Current z (detached): 0.30454182624816895
+Final step 3/3:
+  Final y_hat: 0.009287736378610134
+  Final q_hat: 0.9427908062934875
+Preconditioning step 1/2:
+  Current y (detached): 0.00929553434252739
+  Current z (detached): 0.3045707643032074
+Preconditioning step 2/2:
+  Current y (detached): 0.009295530617237091
+  Current z (detached): 0.30457115173339844
+Final step 3/3:
+  Final y_hat: 0.009295526891946793
+  Final q_hat: 0.9427497386932373
+Preconditioning step 1/2:
+  Current y (detached): 0.009290169924497604
+  Current z (detached): 0.30459892749786377
+Preconditioning step 2/2:
+  Current y (detached): 0.009290180169045925
+  Current z (detached): 0.3045993149280548
+Final step 3/3:
+  Final y_hat: 0.00929017923772335
+  Final q_hat: 0.9427608251571655
+Preconditioning step 1/2:
+  Current y (detached): 0.008948111906647682
+  Current z (detached): 0.2965354323387146
+Preconditioning step 2/2:
+  Current y (detached): 0.0092704426497221
+  Current z (detached): 0.30420541763305664
+Final step 3/3:
+  Final y_hat: 0.009300234727561474
+  Final q_hat: 0.9431201815605164
+Preconditioning step 1/2:
+  Current y (detached): 0.00928505975753069
+  Current z (detached): 0.3050444424152374
+Preconditioning step 2/2:
+  Current y (detached): 0.009285088628530502
+  Current z (detached): 0.305044561624527
+Final step 3/3:
+  Final y_hat: 0.009285088628530502
+  Final q_hat: 0.9431362748146057
+Preconditioning step 1/2:
+  Current y (detached): 0.00927368737757206
+  Current z (detached): 0.30498436093330383
+Preconditioning step 2/2:
+  Current y (detached): 0.009273765608668327
+  Current z (detached): 0.30498453974723816
+Final step 3/3:
+  Final y_hat: 0.009273765608668327
+  Final q_hat: 0.9431226849555969
+Preconditioning step 1/2:
+  Current y (detached): 0.00848625972867012
+  Current z (detached): 0.2987634539604187
+Preconditioning step 2/2:
+  Current y (detached): 0.009232712909579277
+  Current z (detached): 0.3036269545555115
+Final step 3/3:
+  Final y_hat: 0.00923870038241148
+  Final q_hat: 0.9427404999732971
+Preconditioning step 1/2:
+  Current y (detached): 0.009233104065060616
+  Current z (detached): 0.3042498230934143
+Preconditioning step 2/2:
+  Current y (detached): 0.009233184158802032
+  Current z (detached): 0.3042498826980591
+Final step 3/3:
+  Final y_hat: 0.009233185090124607
+  Final q_hat: 0.9427151679992676
+Preconditioning step 1/2:
+  Current y (detached): 0.009229656308889389
+  Current z (detached): 0.3042081892490387
+Preconditioning step 2/2:
+  Current y (detached): 0.009229722432792187
+  Current z (detached): 0.3042084276676178
+Final step 3/3:
+  Final y_hat: 0.009229722432792187
+  Final q_hat: 0.9427140951156616
+Epoch [19/20] finished, Average Loss: 0.0139
+Preconditioning step 1/2:
+  Current y (detached): 0.009337438270449638
+  Current z (detached): 0.3042526841163635
+Preconditioning step 2/2:
+  Current y (detached): 0.009451033547520638
+  Current z (detached): 0.30717116594314575
+Final step 3/3:
+  Final y_hat: 0.009454921819269657
+  Final q_hat: 0.9364007711410522
+Preconditioning step 1/2:
+  Current y (detached): 0.009433409199118614
+  Current z (detached): 0.30729320645332336
+Preconditioning step 2/2:
+  Current y (detached): 0.009433429688215256
+  Current z (detached): 0.30729353427886963
+Final step 3/3:
+  Final y_hat: 0.009433429688215256
+  Final q_hat: 0.93645179271698
+Preconditioning step 1/2:
+  Current y (detached): 0.009399276226758957
+  Current z (detached): 0.30739831924438477
+Preconditioning step 2/2:
+  Current y (detached): 0.009399272501468658
+  Current z (detached): 0.3073986768722534
+Final step 3/3:
+  Final y_hat: 0.009399274364113808
+  Final q_hat: 0.9366129636764526
+Preconditioning step 1/2:
+  Current y (detached): 0.00911665428429842
+  Current z (detached): 0.30338895320892334
+Preconditioning step 2/2:
+  Current y (detached): 0.009095205925405025
+  Current z (detached): 0.3045421838760376
+Final step 3/3:
+  Final y_hat: 0.009094972163438797
+  Final q_hat: 0.9430512189865112
+Preconditioning step 1/2:
+  Current y (detached): 0.009049966000020504
+  Current z (detached): 0.3047221004962921
+Preconditioning step 2/2:
+  Current y (detached): 0.009049972519278526
+  Current z (detached): 0.3047224283218384
+Final step 3/3:
+  Final y_hat: 0.009049972519278526
+  Final q_hat: 0.9431752562522888
+Preconditioning step 1/2:
+  Current y (detached): 0.009015924297273159
+  Current z (detached): 0.3048926889896393
+Preconditioning step 2/2:
+  Current y (detached): 0.009015927091240883
+  Current z (detached): 0.304892897605896
+Final step 3/3:
+  Final y_hat: 0.009015927091240883
+  Final q_hat: 0.943281888961792
+Preconditioning step 1/2:
+  Current y (detached): 0.008914663456380367
+  Current z (detached): 0.3014961779117584
+Preconditioning step 2/2:
+  Current y (detached): 0.009078962728381157
+  Current z (detached): 0.30482977628707886
+Final step 3/3:
+  Final y_hat: 0.009077114053070545
+  Final q_hat: 0.9432859420776367
+Preconditioning step 1/2:
+  Current y (detached): 0.009062225930392742
+  Current z (detached): 0.3049613833427429
+Preconditioning step 2/2:
+  Current y (detached): 0.009062213823199272
+  Current z (detached): 0.30496084690093994
+Final step 3/3:
+  Final y_hat: 0.009062214754521847
+  Final q_hat: 0.9433326721191406
+Preconditioning step 1/2:
+  Current y (detached): 0.009054232388734818
+  Current z (detached): 0.30502310395240784
+Preconditioning step 2/2:
+  Current y (detached): 0.009054209105670452
+  Current z (detached): 0.3050225079059601
+Final step 3/3:
+  Final y_hat: 0.009054210968315601
+  Final q_hat: 0.9433543682098389
+Preconditioning step 1/2:
+  Current y (detached): 0.010811947286128998
+  Current z (detached): 0.33470582962036133
+Preconditioning step 2/2:
+  Current y (detached): 0.008995546028017998
+  Current z (detached): 0.30540528893470764
+Final step 3/3:
+  Final y_hat: 0.008980518206954002
+  Final q_hat: 0.9435001611709595
+Preconditioning step 1/2:
+  Current y (detached): 0.009004946798086166
+  Current z (detached): 0.30536937713623047
+Preconditioning step 2/2:
+  Current y (detached): 0.009005028754472733
+  Current z (detached): 0.30536872148513794
+Final step 3/3:
+  Final y_hat: 0.009005030617117882
+  Final q_hat: 0.9435139894485474
+Preconditioning step 1/2:
+  Current y (detached): 0.00904826633632183
+  Current z (detached): 0.3054974675178528
+Preconditioning step 2/2:
+  Current y (detached): 0.00904829055070877
+  Current z (detached): 0.30549705028533936
+Final step 3/3:
+  Final y_hat: 0.00904829055070877
+  Final q_hat: 0.9435520768165588
+Preconditioning step 1/2:
+  Current y (detached): 0.009421147406101227
+  Current z (detached): 0.297214150428772
+Preconditioning step 2/2:
+  Current y (detached): 0.009362655691802502
+  Current z (detached): 0.30860191583633423
+Final step 3/3:
+  Final y_hat: 0.009360097348690033
+  Final q_hat: 0.9384137392044067
+Preconditioning step 1/2:
+  Current y (detached): 0.009409873746335506
+  Current z (detached): 0.30872905254364014
+Preconditioning step 2/2:
+  Current y (detached): 0.009409891441464424
+  Current z (detached): 0.30872899293899536
+Final step 3/3:
+  Final y_hat: 0.009409894235432148
+  Final q_hat: 0.9385247826576233
+Preconditioning step 1/2:
+  Current y (detached): 0.009446331299841404
+  Current z (detached): 0.3087945580482483
+Preconditioning step 2/2:
+  Current y (detached): 0.009446395561099052
+  Current z (detached): 0.3087942898273468
+Final step 3/3:
+  Final y_hat: 0.009446396492421627
+  Final q_hat: 0.9386580586433411
+Preconditioning step 1/2:
+  Current y (detached): 0.009394875727593899
+  Current z (detached): 0.30331137776374817
+Preconditioning step 2/2:
+  Current y (detached): 0.00955195352435112
+  Current z (detached): 0.3097224831581116
+Final step 3/3:
+  Final y_hat: 0.00955826137214899
+  Final q_hat: 0.9392778873443604
+Preconditioning step 1/2:
+  Current y (detached): 0.009566484950482845
+  Current z (detached): 0.3098104000091553
+Preconditioning step 2/2:
+  Current y (detached): 0.009566428139805794
+  Current z (detached): 0.30981022119522095
+Final step 3/3:
+  Final y_hat: 0.009566428139805794
+  Final q_hat: 0.9394503831863403
+Preconditioning step 1/2:
+  Current y (detached): 0.009559125639498234
+  Current z (detached): 0.30982866883277893
+Preconditioning step 2/2:
+  Current y (detached): 0.009559053927659988
+  Current z (detached): 0.30982840061187744
+Final step 3/3:
+  Final y_hat: 0.009559052996337414
+  Final q_hat: 0.9396327137947083
+Preconditioning step 1/2:
+  Current y (detached): 0.009401063434779644
+  Current z (detached): 0.30044907331466675
+Preconditioning step 2/2:
+  Current y (detached): 0.009278854355216026
+  Current z (detached): 0.3029385805130005
+Final step 3/3:
+  Final y_hat: 0.009263909421861172
+  Final q_hat: 0.9445648789405823
+Preconditioning step 1/2:
+  Current y (detached): 0.009252930991351604
+  Current z (detached): 0.30710405111312866
+Preconditioning step 2/2:
+  Current y (detached): 0.009252868592739105
+  Current z (detached): 0.307104229927063
+Final step 3/3:
+  Final y_hat: 0.009252872318029404
+  Final q_hat: 0.9445825815200806
+Preconditioning step 1/2:
+  Current y (detached): 0.009249722585082054
+  Current z (detached): 0.30705583095550537
+Preconditioning step 2/2:
+  Current y (detached): 0.009249603375792503
+  Current z (detached): 0.3070557415485382
+Final step 3/3:
+  Final y_hat: 0.009249603375792503
+  Final q_hat: 0.9445658922195435
+Preconditioning step 1/2:
+  Current y (detached): 0.009193789213895798
+  Current z (detached): 0.29886406660079956
+Preconditioning step 2/2:
+  Current y (detached): 0.009179359301924706
+  Current z (detached): 0.30601370334625244
+Final step 3/3:
+  Final y_hat: 0.009179838001728058
+  Final q_hat: 0.9439685344696045
+Preconditioning step 1/2:
+  Current y (detached): 0.009186971932649612
+  Current z (detached): 0.3061068058013916
+Preconditioning step 2/2:
+  Current y (detached): 0.009186866693198681
+  Current z (detached): 0.3061063289642334
+Final step 3/3:
+  Final y_hat: 0.00918686855584383
+  Final q_hat: 0.9439424276351929
+Preconditioning step 1/2:
+  Current y (detached): 0.009196024388074875
+  Current z (detached): 0.30613967776298523
+Preconditioning step 2/2:
+  Current y (detached): 0.009195929393172264
+  Current z (detached): 0.3061394691467285
+Final step 3/3:
+  Final y_hat: 0.009195931255817413
+  Final q_hat: 0.9439325928688049
+Epoch [20/20] finished, Average Loss: 0.0142
+Training finished.
