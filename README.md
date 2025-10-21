@@ -8,6 +8,7 @@ The **Recursive Semantic Refinement Network (RSR-Net)** is an innovative approac
 Refer **Recursive_Semantic_Refinement_Network_(RSR_Net).ipynb** for more detailed mathematics and implementation
 
 # Dataset:
+The CNN / DailyMail Dataset is an English-language dataset containing just over 300k unique news articles as written by journalists at CNN and the Daily Mail. The current version supports both extractive and abstractive summarization, though the original version was created for machine reading and comprehension and abstractive question answering.
 
 ```bash
 !wget -c https://huggingface.co/datasets/ccdv/cnn_dailymail/resolve/main/cnn_stories.tgz
