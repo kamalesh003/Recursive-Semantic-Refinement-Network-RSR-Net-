@@ -23,8 +23,11 @@ Refer **Recursive_Semantic_Refinement_Network_(RSR_Net).ipynb** for more detaile
 
 
 # Training
+<img width="696" height="462" alt="Screenshot 2025-10-21 175300" src="https://github.com/user-attachments/assets/78bff24f-d642-4368-9c64-d14c5769c238" />
 
-<img width="1490" height="990" alt="image" src="https://github.com/user-attachments/assets/3322cf89-ce4c-4f04-a033-640664cae3aa" />
+
+<img width="1427" height="468" alt="image" src="https://github.com/user-attachments/assets/dd289338-a4b6-45ff-916a-2b8674657894" />
+
 
 
 # Inference on first batch:
