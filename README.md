@@ -25,6 +25,7 @@ Refer **Recursive_Semantic_Refinement_Network_(RSR_Net).ipynb** for more detaile
 
 # Training
 
+**Epochs = 20**
 
 <img width="963" height="556" alt="Screenshot 2025-10-21 183728" src="https://github.com/user-attachments/assets/605842b8-07f9-40f1-a19c-d8c003730f83" />
 
