@@ -35,7 +35,7 @@ The CNN / DailyMail Dataset is an English-language dataset containing just over 
 <img width="947" height="533" alt="Screenshot 2025-10-21 183835" src="https://github.com/user-attachments/assets/5fb4bc32-4739-45e2-aded-d1714f59e615" />
 
 
-# Inference on first batch:
+# Prediction on the first batch of data
 ```
 Preconditioning step 1/2:
   Current y (detached): 0.008832002989947796
