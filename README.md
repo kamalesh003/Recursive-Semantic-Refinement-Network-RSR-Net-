@@ -24,17 +24,8 @@ Refer **Recursive_Semantic_Refinement_Network_(RSR_Net).ipynb** for more detaile
 
 
 # Training
-<img width="696" height="462" alt="Screenshot 2025-10-21 175300" src="https://github.com/user-attachments/assets/78bff24f-d642-4368-9c64-d14c5769c238" />
+<img width="1489" height="990" alt="image" src="https://github.com/user-attachments/assets/1c18bbde-9acf-44c9-a715-8b0fda4729f2" />
 
-# Visualisation
-
-<img width="1427" height="468" alt="image" src="https://github.com/user-attachments/assets/dd289338-a4b6-45ff-916a-2b8674657894" />
-
-
-<img width="1427" height="468" alt="image" src="https://github.com/user-attachments/assets/6eed2eed-142c-4921-92d3-3d5b624a0bc5" />
-
-
-<img width="1427" height="468" alt="image" src="https://github.com/user-attachments/assets/0f7b11f5-c515-49fa-bc91-270e61c5ffd0" />
 
 
 
